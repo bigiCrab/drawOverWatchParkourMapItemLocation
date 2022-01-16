@@ -1,0 +1,2791 @@
+設定
+{
+	主要
+	{
+		敘述: "Lava Parkour Template vBeta- Explore to find heroes and reach all the zones! Created by <Author> using Gemster312's Editor. Join our wonderful Discord! discord.me/lavaparkour"
+	}
+
+	大廳
+	{
+		佇列中的玩家可進行: 是
+		對戰結束後攻守互換: 否
+		對戰語音聊天: 啟用
+		玩家上限隊伍1人: 11
+		玩家上限隊伍2人: 0
+		觀戰人數上限: 12
+		返回大廳: 從不
+	}
+
+	模式
+	{
+		團隊死鬥
+		{
+			啟用的地圖
+			{
+			}
+		}
+
+		衝突戰
+		{
+			啟用的地圖
+			{
+				綠洲城
+			}
+		}
+
+		一般
+		{
+			允許更換英雄: 關閉
+			治療包重生: 停用
+			相同英雄限制: 關閉
+			重生時間: 0%
+			重生時隨機更換英雄: 開啟
+			開始遊戲模式: 立刻
+		}
+	}
+
+	英雄
+	{
+		一般
+		{
+			無限彈藥: 開啟
+
+			D.Va
+			{
+				火箭匣艙: 關閉
+				自爆（絕招）: 關閉
+				防護力場: 關閉
+			}
+
+			半藏
+			{
+				僅限爆頭: 開啟
+				暴風箭: 關閉
+				突進跳躍冷卻時間: 30%
+				造成的傷害: 10%
+				音波箭: 關閉
+				龍魂擊（絕招）: 關閉
+			}
+
+			壁壘機兵
+			{
+				切換模式: 關閉
+				坦克模式（絕招）: 關閉
+				無限彈藥: 開啟
+				自我修復: 關閉
+			}
+
+			士兵76
+			{
+				戰術鎖定（絕招）: 關閉
+				生化力場: 關閉
+			}
+
+			奪命女
+			{
+				劇毒地雷: 關閉
+				爪鉤的冷卻時間: 20%
+				紅外線視野（絕招）: 關閉
+			}
+
+			安娜
+			{
+				奈米強化（絕招）: 關閉
+				無限彈藥: 開啟
+				生化手榴彈: 關閉
+				睡眠鏢: 關閉
+			}
+
+			小美
+			{
+				冰霜屏障的冷卻時間: 0%
+				暴風雪（絕招）: 關閉
+			}
+
+			巴帝斯特
+			{
+				增幅矩陣（絕招）: 關閉
+				無限彈藥: 開啟
+				癒傷波動: 關閉
+				維生力場: 關閉
+			}
+
+			席格馬
+			{
+				動能轉化: 關閉
+				實驗屏障: 關閉
+				重力崩引的冷卻時間: 25%
+				重力流（絕招）: 關閉
+			}
+
+			慈悲
+			{
+				再生: 關閉
+				女武神（絕招）: 關閉
+				復活: 關閉
+			}
+
+			托比昂
+			{
+				僅限爆頭: 開啟
+				可使用武器: 僅限鍛造鎚
+				爐心超載在戰鬥時的絕招蓄力速度: 500%
+				爐心超載的絕招自動蓄力速度: 500%
+				爐心超載的絕招蓄力速度: 500%
+				超負荷的冷卻時間: 50%
+				造成的傷害: 10%
+				部署砲塔: 關閉
+			}
+
+			攔路豬
+			{
+				吸了再上: 關閉
+				火力全開（絕招）: 關閉
+				鎖鍊鉤: 關閉
+			}
+
+			札莉雅
+			{
+				引力彈（絕招）: 關閉
+				投射屏障: 關閉
+				粒子屏障: 關閉
+			}
+
+			歐瑞莎
+			{
+				不准動！: 關閉
+				增壓強化裝置（絕招）: 關閉
+				強化防禦: 關閉
+				防護屏障: 關閉
+			}
+
+			死神
+			{
+				亡靈形態的冷卻時間: 25%
+				幽影傳送的冷卻時間: 25%
+				死亡綻放（絕招）: 關閉
+			}
+
+			毀滅拳王
+			{
+				僅限爆頭: 開啟
+				天鉤拳擊退距離: 0%
+				天鉤拳的冷卻時間: 25%
+				流星墜（絕招）: 關閉
+				火箭拳擊退距離: 0%
+				火箭拳的冷卻時間: 65%
+				無限彈藥: 開啟
+				造成的傷害: 10%
+				震地襲: 關閉
+			}
+
+			法拉
+			{
+				火箭彈幕（絕招）: 關閉
+				無限彈藥: 開啟
+				跳躍噴射的冷卻時間: 50%
+				震盪爆破的冷卻時間: 50%
+			}
+
+			源氏
+			{
+				僅限爆頭: 開啟
+				招架: 關閉
+				無限彈藥: 開啟
+				迅影襲: 關閉
+				造成的傷害: 10%
+				龍一文字（絕招）: 關閉
+			}
+
+			溫斯頓
+			{
+				屏障產生器: 關閉
+				野性之怒（絕招）: 關閉
+			}
+
+			火爆鋼球
+			{
+				地雷陣（絕招）: 關閉
+				垂直打樁機的冷卻時間: 50%
+				穩固爪鉤的冷卻時間: 0%
+				自動調整型護盾: 關閉
+			}
+
+			炸彈鼠
+			{
+				地獄飛輪（絕招）: 關閉
+				生命值: 500%
+				造成的傷害: 10%
+				鋼鐵陷阱: 關閉
+			}
+
+			碧姬
+			{
+				修復包: 關閉
+				全軍集結（絕招）: 關閉
+				懲擊: 關閉
+			}
+
+			禪亞塔
+			{
+				超凡入聖（絕招）: 關閉
+			}
+
+			艾西
+			{
+				炸藥: 關閉
+				無限彈藥: 開啟
+				雙管散彈槍擊退距離（自己）: 65%
+				雙管散彈槍的冷卻時間: 25%
+				鮑伯（絕招）: 關閉
+			}
+
+			莫伊拉
+			{
+				消失的冷卻時間: 40%
+				生化球: 關閉
+				聚合光束（絕招）: 關閉
+			}
+
+			萊因哈特
+			{
+				地裂擊（絕招）: 關閉
+				屏障力場: 關閉
+				烈焰擊: 關閉
+				衝鋒的冷卻時間: 35%
+			}
+
+			路西歐
+			{
+				僅限爆頭: 開啟
+				無限彈藥: 開啟
+				造成的傷害: 10%
+				音波屏障（絕招）: 關閉
+				音量全開的冷卻時間: 75%
+			}
+
+			辛梅塔
+			{
+				光子屏障（絕招）: 關閉
+				哨戒塔: 關閉
+			}
+
+			迴音
+			{
+				聚能光束: 關閉
+				複製（絕招）: 關閉
+				黏性炸彈: 關閉
+			}
+
+			閃光
+			{
+				脈衝炸彈（絕招）: 關閉
+				閃現的冷卻時間: 35%
+			}
+
+			駭影
+			{
+				匿蹤的冷卻時間: 25%
+				相位轉換器的冷卻時間: 50%
+				電磁脈衝波（絕招）: 關閉
+				駭入: 關閉
+			}
+
+			麥卡利
+			{
+				彈無虛發（絕招）: 關閉
+				閃光彈: 關閉
+			}
+
+			啟用的英雄
+			{
+				托比昂
+			}
+		}
+	}
+
+	extensions
+	{
+		Play More Effects
+	}
+}
+
+變數
+{
+	全域:
+		0: EditorVersion
+		1: ShareCode
+		2: Version
+		3: Author
+		4: MaxZones
+		5: MaxHeroes
+		6: HeroRoster
+		7: LavaLocations
+		8: LavaRadius
+		9: CheckpointLocations
+		10: ZoneLocations
+		11: ZoneText
+		12: PortalLocations
+		13: PortalDestinations
+		14: PortalUnlockDefaults
+		15: PortalText
+		16: HeroLocations
+		17: UnlockLocations
+		18: SpeedrunLocation
+		19: BouncepadLocations
+		20: BouncepadStrength
+		21: EffectColors
+		22: EffectBehaviors
+		23: PlayerBehaviors
+		24: SpawnFaceDirection
+		25: MaxObjectIndex
+		26: LoadingObjectIndex
+		27: LoadingElementIndex
+		28: InWorldText
+		29: MatchTime
+		30: AntiCrash
+		31: LavaFloorLocations
+		32: LavaFloorRadius
+		33: EasterEggLocations
+		34: EasterEggHeroes
+		35: EasterEggMaxCount
+
+	玩家:
+		0: Victory
+		1: TutorialMode
+		2: ZonesReached
+		3: HeroesUnlocked
+		4: ZoneCount
+		5: HeroCount
+		6: FoundSecretHero
+		7: Respawn
+		8: AlternativeRespawn
+		9: SpeedRunMode
+		10: Timer
+		11: Deaths
+		12: MyHUD
+		13: CanDie
+		14: LoopCounter
+		15: PortalUnlocked
+		26: EasterEggsFound
+		27: EasterEggCount
+}
+
+subroutines
+{
+	0: ResetProgress
+	1: UpdateCount
+}
+
+規則("---------- INITIALIZATION ----------")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+}
+
+規則("Global")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Disable Inspector Recording;
+		Global.MatchTime = 60 * 180;
+		Disable Built-In Game Mode Scoring;
+		Disable Built-In Game Mode Completion;
+		"Center HUD"
+		Create HUD Text(All Players(All Teams), Null, Null, Custom String("||        discord.me/lavaparkour        ||"), Top, -2, Color(
+			White), Color(White), Color(Orange), Visible To and String, Default Visibility);
+		Create HUD Text(Filtered Array(All Players(All Teams),
+			Current Array Element.Victory == True && Current Array Element.SpeedRunMode == False), String("已完成"), Null, Null, Top, 1,
+			Color(Purple), Color(Purple), Color(Purple), Visible To and String, Default Visibility);
+		Create HUD Text(Filtered Array(All Players(All Teams), Current Array Element.TutorialMode == False), Null, Null, Custom String(
+			"Hold [{0}] To Start Tutorial Mode", Input Binding String(Button(Reload))), Top, 2, Color(White), Color(White), Color(Yellow),
+			Visible To and String, Default Visibility);
+		Create HUD Text(Filtered Array(All Players(All Teams), Current Array Element.TutorialMode == True), Custom String("TUTORIAL MODE"),
+			Null, Null, Top, 2, Color(Yellow), Color(Yellow), Color(Yellow), Visible To and String, Default Visibility);
+		Create HUD Text(Filtered Array(All Players(All Teams), Current Array Element.TutorialMode == True), Null, Null, Custom String(
+			"Press [{0}] to use portals/hero swaps\r\n       Hold [{1}] to place checkpoint\r\n                   Hold [{2}] for a tip",
+			Input Binding String(Button(Interact)), Input Binding String(Button(Reload)), Input Binding String(Button(Melee))), Top, 3,
+			Color(Yellow), Color(Yellow), Color(Yellow), Visible To and String, Default Visibility);
+		Create HUD Text(Filtered Array(All Players(All Teams), Current Array Element.TutorialMode == False), Null, Null, Custom String(
+			"Press [{0}] To Respawn\r\n     Press [{1}] To Use", Input Binding String(Button(Ultimate)), Input Binding String(Button(
+			Interact))), Top, 3, Color(White), Color(White), Color(White), Visible To and String, Default Visibility);
+		Wait(1, Ignore Condition);
+		"Left-Side HUD"
+		Create HUD Text(Filtered Array(All Players(All Teams), Current Array Element.TutorialMode == False), Null, Custom String(
+			"Hold [{0}] to restart", Input Binding String(Button(Ultimate))), Null, Left, 0, Color(White), Color(Purple), Color(White),
+			Visible To and String, Default Visibility);
+		Create HUD Text(Filtered Array(All Players(All Teams), Current Array Element.TutorialMode == True), Null, Custom String(
+			"Hold [{0}] to exit tutorial mode (resets progress)", Input Binding String(Button(Ultimate))), Null, Left, 0, Color(Yellow),
+			Color(Yellow), Color(Yellow), Visible To and String, Default Visibility);
+		Create HUD Text(All Players(All Teams), Custom String("PROGRESS:"), Null, Null, Left, 1, Color(Purple), Color(White), Color(White),
+			Visible To and String, Default Visibility);
+		Wait(1, Ignore Condition);
+		"Right-Side HUD"
+		Create HUD Text(All Players(All Teams), Custom String("Share Code: {0} ", Global.ShareCode), Null, Null, Right, -3, Color(White),
+			Color(White), Color(White), Visible To and String, Default Visibility);
+		Create HUD Text(All Players(All Teams), Null, Null, Custom String("Created By: {0}", Global.Author), Right, -2, Color(White),
+			Color(White), Color(White), Visible To and String, Default Visibility);
+		Create HUD Text(All Players(All Teams), Null, Null, Custom String("version {0}", Global.Version), Right, -1, Color(White), Color(
+			White), Color(White), Visible To and String, Default Visibility);
+		"Player Progress"
+		Create HUD Text(All Players(All Teams), Null, Null, Custom String("Zones Reached\r\n{0}\r\nHeroes Unlocked\r\n{1}", Custom String(
+			"{0} / {1}", Local Player.ZoneCount, Global.MaxZones), Custom String("{0} / {1}", Local Player.HeroCount, Global.MaxHeroes)),
+			Left, 2, Color(Aqua), Color(Aqua), Color(Blue), Visible To and String, Default Visibility);
+	}
+}
+
+規則("Player")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	動作
+	{
+		Event Player.CanDie = False;
+		Start Forcing Player To Be Hero(Event Player, Global.HeroRoster[0]);
+		While(Has Spawned(Event Player) == False);
+			Wait(0.025, Ignore Condition);
+		End;
+		Disable Game Mode In-World UI(Event Player);
+		Disable Game Mode HUD(Event Player);
+		If(Global.PlayerBehaviors[0] == 1);
+			Disable Movement Collision With Players(Event Player);
+		Else If(Global.PlayerBehaviors[0] == 2);
+			Set Status(Event Player, Null, Phased Out, 9999);
+		End;
+		Event Player.SpeedRunMode = False;
+		Set Damage Dealt(Event Player, 0);
+		Call Subroutine(ResetProgress);
+		Wait(0.300, Ignore Condition);
+		Set Objective Description(Event Player, Custom String("Find All Zones and Heroes"), String);
+		Event Player.CanDie = True;
+		Wait(2, Ignore Condition);
+		Set Facing(Event Player, Global.SpawnFaceDirection, To World);
+	}
+}
+
+規則("----- DATA -----")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+}
+
+規則("Release Information")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Global.ShareCode = Custom String("Easy;XHEGM\nHard:4Y1VP");
+		Global.Version = Custom String("1.0.0");
+		Global.Author = Custom String("채전");
+		Global.EditorVersion = Custom String("Classic 1.2");
+	}
+}
+
+規則("Goal Counts")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Global.MaxZones = 4;
+		Global.MaxHeroes = 4;
+	}
+}
+
+規則("Hero Roster")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		"Spawning Hero"
+		Global.HeroRoster[0] = Hero(源氏);
+		"Unlockable Hero 1"
+		Global.HeroRoster[1] = Hero(半藏);
+		"Unlockable Hero 2"
+		Global.HeroRoster[2] = Hero(毀滅拳王);
+		"Unlockable Hero 3"
+		Global.HeroRoster[3] = Hero(路西歐);
+		"Unlockable Hero 4"
+		Global.HeroRoster[4] = Hero(閃光);
+		"Secret Hero - White"
+		Global.HeroRoster[5] = Hero(托比昂);
+	}
+}
+
+規則("Lava Locations")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Global.LavaLocations[0] = Vector(71.390, 84.300, 319.410);
+		Global.LavaLocations[1] = Vector(69.570, -30.710, 320.890);
+		Global.LavaLocations[2] = Vector(66.950, 8.660, 322.400);
+		Global.LavaLocations[3] = Vector(63.190, 9.010, 324.510);
+		Global.LavaLocations[4] = Vector(85.650, -20.490, 310.260);
+		Global.LavaLocations[5] = Vector(115.310, 2.100, 282.560);
+		Global.LavaLocations[6] = Vector(108.330, 4.910, 282.650);
+		Global.LavaLocations[7] = Vector(113.420, 8.820, 282.980);
+		Global.LavaLocations[8] = Vector(110.800, -3.230, 282.190);
+		Global.LavaLocations[9] = Vector(106.630, -0.060, 287.990);
+		Global.LavaLocations[10] = Vector(108.740, 4.420, 290.130);
+		Global.LavaLocations[11] = Vector(105.370, -0.160, 283.880);
+		Global.LavaLocations[12] = Vector(114.470, 8.330, 251.490);
+		Global.LavaLocations[13] = Vector(134.130, 4.100, 277.570);
+		Global.LavaLocations[14] = Vector(120.310, 4.860, 270.090);
+		Global.LavaLocations[15] = Vector(202.670, -38.720, -192.560);
+		Global.LavaLocations[16] = Vector(219.470, -0.600, -177.630);
+		Global.LavaLocations[17] = Vector(221.600, 21.940, -175.390);
+		Global.LavaLocations[18] = Vector(225.380, 9.480, -177.520);
+		Global.LavaLocations[19] = Vector(184.700, 17.910, -175.460);
+		Global.LavaLocations[20] = Vector(214.630, 15.640, -193.180);
+		Global.LavaLocations[21] = Vector(203.510, 23.320, -203.420);
+		Global.LavaLocations[22] = Vector(202.580, 7.580, -211.190);
+		Global.LavaLocations[23] = Vector(191.080, 10.370, -193.430);
+		Global.LavaLocations[24] = Vector(196.240, 8.960, -201.840);
+		Global.LavaLocations[25] = Vector(183.720, 8.420, -190.170);
+		Global.LavaLocations[26] = Vector(183.850, 20.720, -194.050);
+		Global.LavaLocations[27] = Vector(187.400, 8.420, -199.300);
+		Global.LavaLocations[28] = Vector(192.090, 9.390, -206.510);
+		Global.LavaLocations[29] = Vector(185.580, 15.080, -203.870);
+		Global.LavaLocations[30] = Vector(192.010, 17.350, -204.900);
+		Global.LavaLocations[31] = Vector(191.590, 8.420, -200.990);
+		Global.LavaLocations[32] = Vector(182.540, 8.190, -208.010);
+		Global.LavaLocations[33] = Vector(180.340, 8, -202.590);
+		Global.LavaLocations[34] = Vector(166.860, -11.560, -223.690);
+		Global.LavaLocations[35] = Vector(189.730, 9.270, -215.640);
+		Global.LavaLocations[36] = Vector(175.840, 5.500, -242.080);
+		Global.LavaLocations[37] = Vector(166.540, 5.500, -255.250);
+		Global.LavaLocations[38] = Vector(148.500, 8.610, -254.570);
+		Global.LavaLocations[39] = Vector(144.550, 5.600, -269.720);
+		Global.LavaLocations[40] = Vector(140.820, 1.150, -274.630);
+		Global.LavaLocations[41] = Vector(135.410, 1.630, -275.940);
+		Global.LavaLocations[42] = Vector(136.050, 17.280, -272.870);
+		Global.LavaLocations[43] = Vector(129.470, 5.500, -281.390);
+		Global.LavaLocations[44] = Vector(124.340, 8.880, -270.700);
+		Global.LavaLocations[45] = Vector(104.240, -22.180, -290.920);
+		Global.LavaLocations[46] = Vector(126.890, 10.330, -261.760);
+		Global.LavaLocations[47] = Vector(149.800, 8.310, -282.070);
+		Global.LavaLocations[48] = Vector(109.010, -44.780, -269.710);
+		Global.LavaLocations[49] = Vector(123.590, 7.500, -280.020);
+		Global.LavaLocations[50] = Vector(83.960, 5.490, -264.220);
+		Global.LavaLocations[51] = Vector(96.380, 13.890, -241.390);
+		Global.LavaLocations[52] = Vector(83.470, 13.480, -235.310);
+		Global.LavaLocations[53] = Vector(96.150, 10.420, -228.660);
+		Global.LavaLocations[54] = Vector(111.350, 30.010, -239.240);
+		Global.LavaLocations[55] = Vector(129.710, 3.240, -235.640);
+		Global.LavaLocations[56] = Vector(128.170, 25.030, -260.060);
+		Global.LavaLocations[57] = Vector(113.590, 25.170, -220.360);
+		Global.LavaLocations[58] = Vector(107.360, 16.950, -213.490);
+		Global.LavaLocations[59] = Vector(109.630, 25.840, -232.470);
+		Global.LavaLocations[60] = Vector(124.510, 27.110, -213.920);
+		Global.LavaLocations[61] = Vector(106.180, 5.120, -212.930);
+		Global.LavaLocations[62] = Vector(137.190, 2.270, -181.730);
+		Global.LavaLocations[63] = Vector(113.540, 8.710, -200.440);
+		Global.LavaLocations[64] = Vector(155.840, 15.920, -204.690);
+		Global.LavaLocations[65] = Vector(152.630, 25.910, -197.650);
+		Global.LavaLocations[66] = Vector(172.520, 27.500, -221.590);
+		Global.LavaLocations[67] = Vector(146.470, 10.640, -210.530);
+		Global.LavaLocations[68] = Vector(-216.960, 63.080, 1.040);
+		Global.LavaLocations[69] = Vector(-200.760, 20.120, 0.130);
+		Global.LavaLocations[70] = Vector(-208.500, 17.420, 12.660);
+		Global.LavaLocations[71] = Vector(-225.110, 20.730, 4.450);
+		Global.LavaLocations[72] = Vector(-223.350, 16.490, -6.850);
+		Global.LavaLocations[73] = Vector(-205.100, 25.110, -17.770);
+		Global.LavaLocations[74] = Vector(-210.850, 13.950, -31.520);
+		Global.LavaLocations[75] = Vector(-229.360, 8.150, -5.140);
+		Global.LavaLocations[76] = Vector(-221.010, 8.710, 5.430);
+		Global.LavaLocations[77] = Vector(-227.680, 5.120, 4.800);
+		Global.LavaLocations[78] = Vector(-224.070, 16.730, 13.150);
+		Global.LavaLocations[79] = Vector(-203.430, 23.340, 29.110);
+		Global.LavaLocations[80] = Vector(-223.510, 21.190, 58.140);
+		Global.LavaLocations[81] = Vector(-198.570, 15, 40.060);
+		Global.LavaLocations[82] = Vector(-196.770, 19.350, 55.110);
+		Global.LavaLocations[83] = Vector(-195.340, 33.760, 48.640);
+		Global.LavaLocations[84] = Vector(-220.020, 3.410, 21.310);
+		Global.LavaLocations[85] = Vector(-174.880, -49.440, 35.680);
+		Global.LavaLocations[86] = Vector(-170.660, 35.980, 41.790);
+		Global.LavaLocations[87] = Vector(-174.600, 24.250, 24.650);
+		Global.LavaLocations[88] = Vector(-186.200, 33.840, 26.440);
+		Global.LavaLocations[89] = Vector(-180.260, -52.560, 0.030);
+		Global.LavaLocations[90] = Vector(-190.270, 17.470, -19.340);
+		Global.LavaLocations[91] = Vector(-178, 34.820, 0.100);
+		Global.LavaLocations[92] = Vector(-169.250, 16, -16.250);
+		Global.LavaLocations[93] = Vector(-176.310, -63.380, -34.980);
+		Global.LavaLocations[94] = Vector(-187.210, 32.420, -52.360);
+		Global.LavaLocations[95] = Vector(-199.350, 22.430, -42.100);
+		Global.LavaLocations[96] = Vector(-169.370, 33.700, -33.530);
+		Global.LavaLocations[97] = Vector(-169, 23.170, -25.240);
+		Global.LavaLocations[98] = Vector(-169.260, 21.100, -42.960);
+		Global.LavaLocations[99] = Vector(-177.900, 22.800, -42.750);
+		Global.LavaLocations[100] = Vector(-188.190, -9.680, -54.860);
+		Global.LavaLocations[101] = Vector(-206.490, -1.840, -60.680);
+		Global.LavaLocations[102] = Vector(-208.170, 20.040, -52.110);
+		Global.LavaLocations[103] = Vector(-209.860, 22.010, -60.400);
+		Global.LavaLocations[104] = Vector(-187.780, 37, -67.200);
+		Global.LavaLocations[105] = Vector(204.440, 2.970, 222.120);
+		Global.LavaLocations[106] = Vector(165.260, 0.500, 187.970);
+		Global.LavaLocations[107] = Vector(180.650, -6.650, 210.100);
+		Global.LavaLocations[108] = Vector(180.450, 6.630, 210.500);
+		Global.LavaLocations[109] = Vector(163.330, 12.220, -186.650);
+		Global.LavaLocations[110] = Vector(119.100, 13.610, -286.790);
+		Global.LavaLocations[111] = Vector(120.350, 19.620, -292.500);
+		Global.LavaLocations[112] = Vector(-182.010, -43.760, -31.490);
+		Global.LavaLocations[113] = Vector(-206.305, 32.352, -33.258);
+		Global.LavaLocations[114] = Vector(189.313, 15.387, -200.938);
+		Global.LavaLocations[115] = Vector(147.229, 14.571, -279.349);
+		Global.LavaLocations[116] = Vector(116.745, 8.646, -256.393);
+		Global.LavaLocations[117] = Vector(0, 0, 0);
+		Global.LavaLocations[118] = Vector(0, 0, 0);
+		Global.LavaLocations[119] = Vector(0, 0, 0);
+		Global.LavaLocations[120] = Vector(0, 0, 0);
+		Global.LavaLocations[121] = Vector(0, 0, 0);
+		Global.LavaLocations[122] = Vector(0, 0, 0);
+		Global.LavaLocations[123] = Vector(0, 0, 0);
+		Global.LavaLocations[124] = Vector(0, 0, 0);
+		Global.LavaLocations[125] = Vector(0, 0, 0);
+		Global.LavaLocations[126] = Vector(0, 0, 0);
+		Global.LavaLocations[127] = Vector(0, 0, 0);
+		Global.LavaLocations[128] = Vector(0, 0, 0);
+		Global.LavaLocations[129] = Vector(0, 0, 0);
+		Global.LavaLocations[130] = Vector(0, 0, 0);
+		Global.LavaLocations[131] = Vector(0, 0, 0);
+		Global.LavaLocations[132] = Vector(0, 0, 0);
+		Global.LavaLocations[133] = Vector(0, 0, 0);
+		Global.LavaLocations[134] = Vector(0, 0, 0);
+		Global.LavaLocations[135] = Vector(0, 0, 0);
+		Global.LavaLocations[136] = Vector(0, 0, 0);
+		Global.LavaLocations[137] = Vector(0, 0, 0);
+		Global.LavaLocations[138] = Vector(0, 0, 0);
+		Global.LavaLocations[139] = Vector(0, 0, 0);
+		Global.LavaLocations[140] = Vector(0, 0, 0);
+		Global.LavaLocations[141] = Vector(0, 0, 0);
+		Global.LavaLocations[142] = Vector(0, 0, 0);
+		Global.LavaLocations[143] = Vector(0, 0, 0);
+		Global.LavaLocations[144] = Vector(0, 0, 0);
+		Global.LavaLocations[145] = Vector(0, 0, 0);
+		Global.LavaLocations[146] = Vector(0, 0, 0);
+		Global.LavaLocations[147] = Vector(0, 0, 0);
+		Global.LavaLocations[148] = Vector(0, 0, 0);
+		Global.LavaLocations[149] = Vector(0, 0, 0);
+		Global.LavaLocations[150] = Vector(0, 0, 0);
+		Global.LavaLocations[151] = Vector(0, 0, 0);
+		Global.LavaLocations[152] = Vector(0, 0, 0);
+		Global.LavaLocations[153] = Vector(0, 0, 0);
+		Global.LavaLocations[154] = Vector(0, 0, 0);
+		Global.LavaLocations[155] = Vector(0, 0, 0);
+		Global.LavaLocations[156] = Vector(0, 0, 0);
+		Global.LavaLocations[157] = Vector(0, 0, 0);
+		Global.LavaLocations[158] = Vector(0, 0, 0);
+		Global.LavaLocations[159] = Vector(0, 0, 0);
+	}
+}
+
+規則("Lava Radius")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Global.LavaRadius[0] = 72.800;
+		Global.LavaRadius[1] = 36.500;
+		Global.LavaRadius[2] = 4.800;
+		Global.LavaRadius[3] = 4.400;
+		Global.LavaRadius[4] = 23.200;
+		Global.LavaRadius[5] = 4;
+		Global.LavaRadius[6] = 4;
+		Global.LavaRadius[7] = 5.500;
+		Global.LavaRadius[8] = 4.300;
+		Global.LavaRadius[9] = 3.100;
+		Global.LavaRadius[10] = 3.300;
+		Global.LavaRadius[11] = 5.800;
+		Global.LavaRadius[12] = 20.500;
+		Global.LavaRadius[13] = 4.600;
+		Global.LavaRadius[14] = 5.400;
+		Global.LavaRadius[15] = 48.600;
+		Global.LavaRadius[16] = 16;
+		Global.LavaRadius[17] = 5.500;
+		Global.LavaRadius[18] = 5.700;
+		Global.LavaRadius[19] = 11.200;
+		Global.LavaRadius[20] = 2.400;
+		Global.LavaRadius[21] = 7.400;
+		Global.LavaRadius[22] = 11.500;
+		Global.LavaRadius[23] = 6.400;
+		Global.LavaRadius[24] = 3.900;
+		Global.LavaRadius[25] = 8.800;
+		Global.LavaRadius[26] = 10.200;
+		Global.LavaRadius[27] = 4.100;
+		Global.LavaRadius[28] = 4.800;
+		Global.LavaRadius[29] = 3.900;
+		Global.LavaRadius[30] = 4.700;
+		Global.LavaRadius[31] = 2.800;
+		Global.LavaRadius[32] = 5.100;
+		Global.LavaRadius[33] = 3.400;
+		Global.LavaRadius[34] = 29.200;
+		Global.LavaRadius[35] = 4.300;
+		Global.LavaRadius[36] = 7.800;
+		Global.LavaRadius[37] = 5;
+		Global.LavaRadius[38] = 15;
+		Global.LavaRadius[39] = 5.400;
+		Global.LavaRadius[40] = 5.300;
+		Global.LavaRadius[41] = 6;
+		Global.LavaRadius[42] = 9.400;
+		Global.LavaRadius[43] = 6.300;
+		Global.LavaRadius[44] = 6.300;
+		Global.LavaRadius[45] = 33.400;
+		Global.LavaRadius[46] = 10.200;
+		Global.LavaRadius[47] = 6.700;
+		Global.LavaRadius[48] = 54.400;
+		Global.LavaRadius[49] = 6.500;
+		Global.LavaRadius[50] = 23.700;
+		Global.LavaRadius[51] = 10.600;
+		Global.LavaRadius[52] = 5.300;
+		Global.LavaRadius[53] = 10.700;
+		Global.LavaRadius[54] = 6.500;
+		Global.LavaRadius[55] = 21.100;
+		Global.LavaRadius[56] = 14.700;
+		Global.LavaRadius[57] = 10.900;
+		Global.LavaRadius[58] = 9;
+		Global.LavaRadius[59] = 7.500;
+		Global.LavaRadius[60] = 7.500;
+		Global.LavaRadius[61] = 8;
+		Global.LavaRadius[62] = 27.800;
+		Global.LavaRadius[63] = 12.100;
+		Global.LavaRadius[64] = 12.100;
+		Global.LavaRadius[65] = 10.500;
+		Global.LavaRadius[66] = 19.300;
+		Global.LavaRadius[67] = 3.700;
+		Global.LavaRadius[68] = 41.600;
+		Global.LavaRadius[69] = 13.300;
+		Global.LavaRadius[70] = 13;
+		Global.LavaRadius[71] = 6.900;
+		Global.LavaRadius[72] = 6.900;
+		Global.LavaRadius[73] = 10.600;
+		Global.LavaRadius[74] = 15.200;
+		Global.LavaRadius[75] = 4.100;
+		Global.LavaRadius[76] = 6.400;
+		Global.LavaRadius[77] = 6.200;
+		Global.LavaRadius[78] = 7.300;
+		Global.LavaRadius[79] = 11.400;
+		Global.LavaRadius[80] = 18.200;
+		Global.LavaRadius[81] = 6.500;
+		Global.LavaRadius[82] = 13.100;
+		Global.LavaRadius[83] = 8.400;
+		Global.LavaRadius[84] = 6.800;
+		Global.LavaRadius[85] = 69.700;
+		Global.LavaRadius[86] = 12.300;
+		Global.LavaRadius[87] = 5.500;
+		Global.LavaRadius[88] = 7.400;
+		Global.LavaRadius[89] = 70.900;
+		Global.LavaRadius[90] = 11.900;
+		Global.LavaRadius[91] = 14.200;
+		Global.LavaRadius[92] = 7.100;
+		Global.LavaRadius[93] = 63;
+		Global.LavaRadius[94] = 11.300;
+		Global.LavaRadius[95] = 7.800;
+		Global.LavaRadius[96] = 9;
+		Global.LavaRadius[97] = 6.600;
+		Global.LavaRadius[98] = 5;
+		Global.LavaRadius[99] = 6.100;
+		Global.LavaRadius[100] = 31.500;
+		Global.LavaRadius[101] = 23.500;
+		Global.LavaRadius[102] = 6;
+		Global.LavaRadius[103] = 3.800;
+		Global.LavaRadius[104] = 18.400;
+		Global.LavaRadius[105] = 17.700;
+		Global.LavaRadius[106] = 18.100;
+		Global.LavaRadius[107] = 7.200;
+		Global.LavaRadius[108] = 7.400;
+		Global.LavaRadius[109] = 18.700;
+		Global.LavaRadius[110] = 4.600;
+		Global.LavaRadius[111] = 6.200;
+		Global.LavaRadius[112] = 62.400;
+		Global.LavaRadius[113] = 6;
+		Global.LavaRadius[114] = 1;
+		Global.LavaRadius[115] = 2;
+		Global.LavaRadius[116] = 3.500;
+		Global.LavaRadius[117] = 0;
+		Global.LavaRadius[118] = 0;
+		Global.LavaRadius[119] = 0;
+		Global.LavaRadius[120] = 0;
+		Global.LavaRadius[121] = 0;
+		Global.LavaRadius[122] = 0;
+		Global.LavaRadius[123] = 0;
+		Global.LavaRadius[124] = 0;
+		Global.LavaRadius[125] = 0;
+		Global.LavaRadius[126] = 0;
+		Global.LavaRadius[127] = 0;
+		Global.LavaRadius[128] = 0;
+		Global.LavaRadius[129] = 0;
+		Global.LavaRadius[130] = 0;
+		Global.LavaRadius[131] = 0;
+		Global.LavaRadius[132] = 0;
+		Global.LavaRadius[133] = 0;
+		Global.LavaRadius[134] = 0;
+		Global.LavaRadius[135] = 0;
+		Global.LavaRadius[136] = 0;
+		Global.LavaRadius[137] = 0;
+		Global.LavaRadius[138] = 0;
+		Global.LavaRadius[139] = 0;
+		Global.LavaRadius[140] = 0;
+		Global.LavaRadius[141] = 0;
+		Global.LavaRadius[142] = 0;
+		Global.LavaRadius[143] = 0;
+		Global.LavaRadius[144] = 0;
+		Global.LavaRadius[145] = 0;
+		Global.LavaRadius[146] = 0;
+		Global.LavaRadius[147] = 0;
+		Global.LavaRadius[148] = 0;
+		Global.LavaRadius[149] = 0;
+		Global.LavaRadius[150] = 0;
+		Global.LavaRadius[151] = 0;
+		Global.LavaRadius[152] = 0;
+		Global.LavaRadius[153] = 0;
+		Global.LavaRadius[154] = 0;
+		Global.LavaRadius[155] = 0;
+		Global.LavaRadius[156] = 0;
+		Global.LavaRadius[157] = 0;
+		Global.LavaRadius[158] = 0;
+		Global.LavaRadius[159] = 0;
+	}
+}
+
+規則("Checkpoint Locations")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Global.CheckpointLocations[0] = Vector(76.260, 6.720, 316.530);
+		Global.CheckpointLocations[1] = Vector(111.290, -0.290, 286.880);
+		Global.CheckpointLocations[2] = Vector(108.430, 23.130, -263.610);
+		Global.CheckpointLocations[3] = Vector(0, 0, 0);
+		Global.CheckpointLocations[4] = Vector(0, 0, 0);
+		Global.CheckpointLocations[5] = Vector(0, 0, 0);
+		Global.CheckpointLocations[6] = Vector(0, 0, 0);
+		Global.CheckpointLocations[7] = Vector(0, 0, 0);
+		Global.CheckpointLocations[8] = Vector(0, 0, 0);
+		Global.CheckpointLocations[9] = Vector(0, 0, 0);
+	}
+}
+
+規則("Zone Locations")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		"Spawn"
+		Global.ZoneLocations[0] = Vector(64.270, 7, 336.420);
+		"Zone 1"
+		Global.ZoneLocations[1] = Vector(191.100, 7.380, -179.940);
+		"Zone 2"
+		Global.ZoneLocations[2] = Vector(110.940, 13.570, -277.860);
+		"Zone 3"
+		Global.ZoneLocations[3] = Vector(-216.700, 19, -1.010);
+		"Zone 4"
+		Global.ZoneLocations[4] = Vector(197.500, 1, 195.990);
+	}
+}
+
+規則("Zone Text")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		"Spawn - Cannot Edit"
+		Global.ZoneText[0] = Null;
+		"Zone 1"
+		Global.ZoneText[1] = Custom String("Zone 1");
+		"Zone 2"
+		Global.ZoneText[2] = Custom String("Zone 2");
+		"Zone 3"
+		Global.ZoneText[3] = Custom String("Zone 3");
+		"Zone 4"
+		Global.ZoneText[4] = Custom String("Zone 4");
+	}
+}
+
+規則("Portal Locations")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Global.PortalLocations[0] = Vector(109.890, 3.020, 276.310);
+		Global.PortalLocations[1] = Vector(53.470, 8.300, 319.490);
+		Global.PortalLocations[2] = Vector(143.250, 8.940, -209.190);
+		Global.PortalLocations[3] = Vector(193.180, 9, -169.790);
+		Global.PortalLocations[4] = Vector(197.800, 9, -164.300);
+		Global.PortalLocations[5] = Vector(202.043, 9, -159.688);
+		Global.PortalLocations[6] = Vector(115.580, 14.220, -282.540);
+		Global.PortalLocations[7] = Vector(-213.680, 20.080, -6.200);
+		Global.PortalLocations[8] = Vector(202.470, 2.530, 199.340);
+		Global.PortalLocations[9] = Vector(-200.478, 16.800, -13.002);
+		Global.PortalLocations[10] = Vector(189.551, 2.354, 187.273);
+		Global.PortalLocations[11] = Vector(0, 0, 0);
+		Global.PortalLocations[12] = Vector(0, 0, 0);
+		Global.PortalLocations[13] = Vector(0, 0, 0);
+		Global.PortalLocations[14] = Vector(0, 0, 0);
+		Global.PortalLocations[15] = Vector(0, 0, 0);
+	}
+}
+
+規則("Portal Destinations")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Global.PortalDestinations[0] = Vector(191.100, 7.380, -179.940);
+		Global.PortalDestinations[1] = Vector(111.290, -0.290, 286.880);
+		Global.PortalDestinations[2] = Global.ZoneLocations[3];
+		Global.PortalDestinations[3] = Vector(110.940, 13.570, -277.860);
+		Global.PortalDestinations[4] = Vector(-216.700, 19, -1.010);
+		Global.PortalDestinations[5] = Vector(197.500, 1, 195.990);
+		Global.PortalDestinations[6] = Vector(191.100, 7.380, -179.940);
+		Global.PortalDestinations[7] = Vector(191.100, 7.380, -179.940);
+		Global.PortalDestinations[8] = Vector(191.100, 7.380, -179.940);
+		Global.PortalDestinations[9] = Global.ZoneLocations[4];
+		Global.PortalDestinations[10] = Vector(54.996, 8.350, 321.359);
+		Global.PortalDestinations[11] = Vector(0, 0, 0);
+		Global.PortalDestinations[12] = Vector(0, 0, 0);
+		Global.PortalDestinations[13] = Vector(0, 0, 0);
+		Global.PortalDestinations[14] = Vector(0, 0, 0);
+		Global.PortalDestinations[15] = Vector(0, 0, 0);
+	}
+}
+
+規則("Portal Unlock Defaults")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		"True = Usable from Start | False = Locked until destination is reached"
+		Global.PortalUnlockDefaults[0] = True;
+		Global.PortalUnlockDefaults[1] = True;
+		Global.PortalUnlockDefaults[2] = True;
+		Global.PortalUnlockDefaults[3] = False;
+		Global.PortalUnlockDefaults[4] = False;
+		Global.PortalUnlockDefaults[5] = False;
+		Global.PortalUnlockDefaults[6] = False;
+		Global.PortalUnlockDefaults[7] = False;
+		Global.PortalUnlockDefaults[8] = False;
+		Global.PortalUnlockDefaults[9] = True;
+		Global.PortalUnlockDefaults[10] = True;
+		Global.PortalUnlockDefaults[11] = False;
+		Global.PortalUnlockDefaults[12] = False;
+		Global.PortalUnlockDefaults[13] = False;
+		Global.PortalUnlockDefaults[14] = False;
+		Global.PortalUnlockDefaults[15] = False;
+	}
+}
+
+規則("Portal Text")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Global.PortalText[0] = Custom String("");
+		Global.PortalText[1] = Custom String("");
+		Global.PortalText[2] = Custom String("");
+		Global.PortalText[3] = Custom String("Zone 2");
+		Global.PortalText[4] = Custom String("Zone 3");
+		Global.PortalText[5] = Custom String("Zone 4");
+		Global.PortalText[6] = Custom String("Zone 1");
+		Global.PortalText[7] = Custom String("Zone 1");
+		Global.PortalText[8] = Custom String("Zone 1");
+		Global.PortalText[9] = Custom String("");
+		Global.PortalText[10] = Hero Icon String(Hero(源氏));
+		Global.PortalText[11] = Custom String("");
+		Global.PortalText[12] = Custom String("");
+		Global.PortalText[13] = Custom String("");
+		Global.PortalText[14] = Custom String("");
+		Global.PortalText[15] = Custom String("");
+	}
+}
+
+規則("Hero Locations")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		"Starting Hero"
+		Global.HeroLocations[0] = Vector(202.930, 8.250, -171.340);
+		"Unlockable Hero 1"
+		Global.HeroLocations[1] = Vector(201.030, 8.250, -173.260);
+		"Unlockable Hero 2"
+		Global.HeroLocations[2] = Vector(198.830, 8.250, -175.470);
+		"Unlockable Hero 3"
+		Global.HeroLocations[3] = Vector(198.970, 8.250, -169.480);
+		"Unlockable Hero 4"
+		Global.HeroLocations[4] = Vector(196.830, 8.250, -171.570);
+		"Secret Hero"
+		Global.HeroLocations[5] = Vector(0, 0, 0);
+	}
+}
+
+規則("Unlock Locations")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		"Unlockable Hero 1"
+		Global.UnlockLocations[0] = Vector(111.450, 0.270, 287.410);//辦葬
+		"Unlockable Hero 2"
+		Global.UnlockLocations[1] = Vector(111.030, 32.460, -253.290);//拳王
+		"Unlockable Hero 3"
+		Global.UnlockLocations[2] = Vector(143.390, 6.060, -209.970);//CO
+		"Unlockable Hero 4"
+		Global.UnlockLocations[3] = Vector(-216.360, 21.430, -48.520);//閃光
+	}
+}
+
+規則("Speedrun Location")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Global.SpeedrunLocation = Vector(0, 0, 0);
+	}
+}
+
+規則("Bouncepad Locations")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Global.BouncepadLocations[0] = Vector(76.250, 5.150, 316.550);
+		Global.BouncepadLocations[1] = Vector(111.360, -1.610, 287.220);
+		Global.BouncepadLocations[2] = Vector(108.430, 21.130, -263.610);
+		Global.BouncepadLocations[3] = Vector(0, 0, 0);
+		Global.BouncepadLocations[4] = Vector(0, 0, 0);
+		Global.BouncepadLocations[5] = Vector(0, 0, 0);
+		Global.BouncepadLocations[6] = Vector(0, 0, 0);
+		Global.BouncepadLocations[7] = Vector(0, 0, 0);
+		Global.BouncepadLocations[8] = Vector(0, 0, 0);
+		Global.BouncepadLocations[9] = Vector(0, 0, 0);
+		Global.BouncepadLocations[10] = Vector(0, 0, 0);
+		Global.BouncepadLocations[11] = Vector(0, 0, 0);
+		Global.BouncepadLocations[12] = Vector(0, 0, 0);
+		Global.BouncepadLocations[13] = Vector(0, 0, 0);
+		Global.BouncepadLocations[14] = Vector(0, 0, 0);
+		Global.BouncepadLocations[15] = Vector(0, 0, 0);
+		Global.BouncepadLocations[16] = Vector(0, 0, 0);
+		Global.BouncepadLocations[17] = Vector(0, 0, 0);
+		Global.BouncepadLocations[18] = Vector(0, 0, 0);
+		Global.BouncepadLocations[19] = Vector(0, 0, 0);
+	}
+}
+
+規則("Bouncepad Strengths")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Global.BouncepadStrength[0] = 10;
+		Global.BouncepadStrength[1] = 10;
+		Global.BouncepadStrength[2] = 10;
+		Global.BouncepadStrength[3] = 10;
+		Global.BouncepadStrength[4] = 10;
+		Global.BouncepadStrength[5] = 10;
+		Global.BouncepadStrength[6] = 10;
+		Global.BouncepadStrength[7] = 10;
+		Global.BouncepadStrength[8] = 10;
+		Global.BouncepadStrength[9] = 10;
+		Global.BouncepadStrength[10] = 10;
+		Global.BouncepadStrength[11] = 10;
+		Global.BouncepadStrength[12] = 10;
+		Global.BouncepadStrength[13] = 10;
+		Global.BouncepadStrength[14] = 10;
+		Global.BouncepadStrength[15] = 10;
+		Global.BouncepadStrength[16] = 10;
+		Global.BouncepadStrength[17] = 10;
+		Global.BouncepadStrength[18] = 10;
+		Global.BouncepadStrength[19] = 10;
+	}
+}
+
+規則("Effect Colors")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		"Lava"
+		Global.EffectColors[0] = Color(Red);
+		"Checkpoints"
+		Global.EffectColors[1] = Color(White);
+		"Zones"
+		Global.EffectColors[2] = Color(White);
+		"Portals"
+		Global.EffectColors[3] = Color(White);
+		"Bouncepads"
+		Global.EffectColors[4] = Color(Green);
+		"Starting Hero"
+		Global.EffectColors[5] = Color(Yellow);
+		"Unlockable Hero 1"
+		Global.EffectColors[6] = Color(Green);
+		"Unlockable Hero 2"
+		Global.EffectColors[7] = Color(Blue);
+		"Unlockable Hero 3"
+		Global.EffectColors[8] = Color(Purple);
+		"Unlockable Hero 4"
+		Global.EffectColors[9] = Color(Red);
+		"Secret Hero"
+		Global.EffectColors[10] = Color(White);
+		"Lava "
+		Global.EffectColors[11] = Color(Yellow);
+	}
+}
+
+規則("Effect Behaviors")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		"Portals are visible when locked"
+		Global.EffectBehaviors[0] = False;
+	}
+}
+
+規則("Player Behaviors")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		"Player Phasing\r\n0 = Players can collide with other players and explosions.\r\n1 = Players cannot collide with other players but can interact with explosions.\r\n2 = Players cannot collide with other players nor explosions."
+		Global.PlayerBehaviors[0] = 1;
+	}
+}
+
+規則("Spawn Face Direction")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		"First time spawn direction"
+		Global.SpawnFaceDirection = Vector(1000, 0, 0);
+	}
+}
+
+規則("---------- EXTRA DATA ----------")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+}
+
+規則("In World Text Locations")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		"\"Heroes\" Text"
+		Global.InWorldText[0] = Vector(0, 0, 0);
+	}
+}
+
+規則("Tutorial Mode Tip Messages")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Event Player.TutorialMode == True;
+		Is Button Held(Event Player, Button(Melee)) == True;
+	}
+
+	動作
+	{
+		If(Event Player.ZonesReached[0] == False);
+			Small Message(Event Player, Custom String("{0}로 {1} 를 찾고 zone1 을 찾으세요", Hero Icon String(Hero(源氏)), Hero Icon String(Hero(半藏))));
+		Else If(Event Player.HeroesUnlocked[1] == False);
+			Small Message(Event Player, Custom String("{0}로 zone2 를 찾고 {1} 를 찾으세요", Hero Icon String(Hero(半藏)), Hero Icon String(Hero(毀滅拳王))));
+		Else If(Event Player.ZonesReached[2] == False);
+			Small Message(Event Player, Custom String("{0}로 {1} 를 찾고 zone3 을 찾으세요", Hero Icon String(Hero(毀滅拳王)), Hero Icon String(Hero(
+				路西歐))));
+		Else If(Event Player.HeroesUnlocked[3] == False);
+			Small Message(Event Player, Custom String("{0}로 {1} 를 찾으세요", Hero Icon String(Hero(路西歐)), Hero Icon String(Hero(閃光))));
+		Else If(Event Player.ZonesReached[3] == False);
+			Small Message(Event Player, Custom String("{0}로 zone4를 찾으세요", Hero Icon String(Hero(閃光))));
+		Else If(Event Player.EasterEggsFound[5] == False);
+			Small Message(Event Player, Custom String("이스타에그와 메이를 찾으세요"));
+		Else;
+			Small Message(Event Player, Custom String("플레이해주셔서 감사합니다"));
+		Else;
+	}
+}
+
+規則("---------- EFFECTS ----------")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+}
+
+規則("Loading Data")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		"Get Max Objective Index Values"
+		If(Global.MaxObjectIndex == Null);
+			Wait(0.500, Ignore Condition);
+			"Lava Max"
+			Global.MaxObjectIndex[8] = Count Of(Global.LavaFloorLocations) - 1;
+			"Lava Max"
+			Global.MaxObjectIndex[0] = Count Of(Global.LavaLocations) - 1;
+			"Checkpoint Max"
+			Global.MaxObjectIndex[1] = Count Of(Global.CheckpointLocations) - 1;
+			"Zone Max"
+			Global.MaxObjectIndex[2] = Count Of(Global.ZoneLocations) - 1;
+			"Portals Max"
+			Global.MaxObjectIndex[3] = Count Of(Global.PortalLocations) - 1;
+			"Heroes Max"
+			Global.MaxObjectIndex[4] = Count Of(Global.HeroLocations) - 1;
+			"Unlocks Max"
+			Global.MaxObjectIndex[5] = Count Of(Global.UnlockLocations) - 1;
+			"Speedrun Max"
+			Global.MaxObjectIndex[6] = 0;
+			"Bouncepads Max"
+			Global.MaxObjectIndex[7] = Count Of(Global.BouncepadLocations) - 1;
+		End;
+		"Move to next Object Type if end index reached"
+		If(Global.LoadingElementIndex > Global.MaxObjectIndex[Global.LoadingObjectIndex]);
+			Global.LoadingObjectIndex += 1;
+			Global.LoadingElementIndex = 0;
+		End;
+		"Load Lava"
+		If(Global.LoadingObjectIndex == 0);
+			If(Global.LoadingElementIndex == 0);
+				Global.LavaLocations = Filtered Array(Global.LavaLocations, Current Array Element != Null && Current Array Element != Vector(0, 0,
+					0));
+				Global.LavaRadius = Filtered Array(Global.LavaRadius, Current Array Element != Null && Current Array Element != 0);
+			End;
+			Create Effect(All Players(All Teams), Sphere, Global.EffectColors[0], Global.LavaLocations[Global.LoadingElementIndex],
+				Global.LavaRadius[Global.LoadingElementIndex], Visible To);
+			Wait(0.030, Ignore Condition);
+			Global.LoadingElementIndex += 1;
+			Loop;
+		"Load Checkpoints"
+		Else If(Global.LoadingObjectIndex == 1);
+			If(Global.CheckpointLocations[Global.LoadingElementIndex] != Vector(0, 0, 0)
+				&& Global.CheckpointLocations[Global.LoadingElementIndex] != Null);
+				Create Effect(All Players(All Teams), Light Shaft, Global.EffectColors[1], Global.CheckpointLocations[Global.LoadingElementIndex],
+					1, Visible To);
+			End;
+			Wait(0.030, Ignore Condition);
+			Global.LoadingElementIndex += 1;
+			Loop;
+		"Load Zones"
+		Else If(Global.LoadingObjectIndex == 2);
+			If(Global.ZoneLocations[Global.LoadingElementIndex] != Vector(0, 0, 0)
+				&& Global.ZoneLocations[Global.LoadingElementIndex] != Null);
+				"Zones"
+				If(Global.LoadingElementIndex > 0);
+					Create In-World Text(All Players(All Teams), Global.ZoneText[Global.LoadingElementIndex],
+						Global.ZoneLocations[Global.LoadingElementIndex] + Vector(0, 3, 0), 3, Clip Against Surfaces, Visible To, Color(White),
+						Default Visibility);
+					Wait(0.030, Ignore Condition);
+					Create Effect(All Players(All Teams), Light Shaft, Global.EffectColors[2], Global.ZoneLocations[Global.LoadingElementIndex], 2,
+						Visible To);
+				End;
+			End;
+			Wait(0.030, Ignore Condition);
+			Global.LoadingElementIndex += 1;
+			Loop;
+		"Load Portals"
+		Else If(Global.LoadingObjectIndex == 3);
+			If(Global.PortalLocations[Global.LoadingElementIndex] != Vector(0, 0, 0)
+				&& Global.PortalLocations[Global.LoadingElementIndex] != Null);
+				If(Global.EffectBehaviors[0] == False);
+					Create In-World Text(Filtered Array(All Players(All Teams), Current Array Element.PortalUnlocked[Evaluate Once(
+						Global.LoadingElementIndex)] == True), Global.PortalText[Evaluate Once(Global.LoadingElementIndex)],
+						Global.PortalLocations[Evaluate Once(Global.LoadingElementIndex)], 1.500, Clip Against Surfaces, Visible To, Color(White),
+						Default Visibility);
+					Wait(0.030, Ignore Condition);
+					Create Effect(Filtered Array(All Players(All Teams), Current Array Element.PortalUnlocked[Evaluate Once(Global.LoadingElementIndex)
+						] == True), Good Aura, Global.EffectColors[3], Global.PortalLocations[Evaluate Once(Global.LoadingElementIndex)], 1,
+						Visible To);
+				Else;
+					Create In-World Text(All Players(All Teams), Global.PortalText[Evaluate Once(Global.LoadingElementIndex)],
+						Global.PortalLocations[Evaluate Once(Global.LoadingElementIndex)], 1.500, Clip Against Surfaces, Visible To, Color(White),
+						Default Visibility);
+					Wait(0.030, Ignore Condition);
+					Create In-World Text(Filtered Array(All Players(All Teams), Current Array Element.PortalUnlocked[Evaluate Once(
+						Global.LoadingElementIndex)] == False), Custom String("L O C K E D"), Global.PortalLocations[Evaluate Once(
+						Global.LoadingElementIndex)] + Vector(0, -0.500, 0), 1.250, Clip Against Surfaces, Visible To, Color(Orange),
+						Default Visibility);
+					Wait(0.030, Ignore Condition);
+					Create Effect(All Players(All Teams), Good Aura, Global.EffectColors[3], Global.PortalLocations[Evaluate Once(
+						Global.LoadingElementIndex)], 1, Visible To);
+				End;
+			End;
+			Wait(0.030, Ignore Condition);
+			Global.LoadingElementIndex += 1;
+			Loop;
+		"Load Heroes"
+		Else If(Global.LoadingObjectIndex == 4);
+			If(Global.HeroLocations[Global.LoadingElementIndex] != Vector(0, 0, 0)
+				&& Global.HeroLocations[Global.LoadingElementIndex] != Null);
+				Wait(0.030, Ignore Condition);
+				If(Global.LoadingElementIndex == 0);
+					Create In-World Text(All Players(All Teams), Hero Icon String(Global.HeroRoster[0]), Global.HeroLocations[0], 2,
+						Clip Against Surfaces, Visible To, Color(White), Default Visibility);
+					Create Effect(All Players(All Teams), Bad Aura, Global.EffectColors[5], Global.HeroLocations[0], 1, Visible To);
+				Else If(Global.LoadingElementIndex == 1);
+					Create In-World Text(Filtered Array(All Players(All Teams), Current Array Element.HeroesUnlocked[0] == True), Hero Icon String(
+						Global.HeroRoster[1]), Global.HeroLocations[1], 2, Clip Against Surfaces, Visible To, Color(White), Default Visibility);
+					Create In-World Text(Filtered Array(All Players(All Teams), Current Array Element.HeroesUnlocked[0] == False), Custom String(
+						"{0} - {1}", Hero Icon String(Global.HeroRoster[1]), String("受到鎖定")), Global.HeroLocations[1], 2, Clip Against Surfaces,
+						Visible To, Color(White), Default Visibility);
+					Create Effect(All Players(All Teams), Bad Aura, Global.EffectColors[6], Global.HeroLocations[1], 1, Visible To);
+				Else If(Global.LoadingElementIndex == 2);
+					Create In-World Text(Filtered Array(All Players(All Teams), Current Array Element.HeroesUnlocked[1] == True), Hero Icon String(
+						Global.HeroRoster[2]), Global.HeroLocations[2], 2, Clip Against Surfaces, Visible To, Color(White), Default Visibility);
+					Create In-World Text(Filtered Array(All Players(All Teams), Current Array Element.HeroesUnlocked[1] == False), Custom String(
+						"{0} - {1}", Hero Icon String(Global.HeroRoster[2]), String("受到鎖定")), Global.HeroLocations[2], 2, Clip Against Surfaces,
+						Visible To, Color(White), Default Visibility);
+					Create Effect(All Players(All Teams), Bad Aura, Global.EffectColors[7], Global.HeroLocations[2], 1, Visible To);
+				Else If(Global.LoadingElementIndex == 3);
+					Create In-World Text(Filtered Array(All Players(All Teams), Current Array Element.HeroesUnlocked[2] == True), Hero Icon String(
+						Global.HeroRoster[3]), Global.HeroLocations[3], 2, Clip Against Surfaces, Visible To, Color(White), Default Visibility);
+					Create In-World Text(Filtered Array(All Players(All Teams), Current Array Element.HeroesUnlocked[2] == False), Custom String(
+						"{0} - {1}", Hero Icon String(Global.HeroRoster[3]), String("受到鎖定")), Global.HeroLocations[3], 2, Clip Against Surfaces,
+						Visible To, Color(White), Default Visibility);
+					Create Effect(All Players(All Teams), Bad Aura, Global.EffectColors[8], Global.HeroLocations[3], 1, Visible To);
+				Else If(Global.LoadingElementIndex == 4);
+					Create In-World Text(Filtered Array(All Players(All Teams), Current Array Element.HeroesUnlocked[3] == True), Hero Icon String(
+						Global.HeroRoster[4]), Global.HeroLocations[4], 2, Clip Against Surfaces, Visible To, Color(White), Default Visibility);
+					Create In-World Text(Filtered Array(All Players(All Teams), Current Array Element.HeroesUnlocked[3] == False), Custom String(
+						"{0} - {1}", Hero Icon String(Global.HeroRoster[4]), String("受到鎖定")), Global.HeroLocations[4], 2, Clip Against Surfaces,
+						Visible To, Color(White), Default Visibility);
+					Create Effect(All Players(All Teams), Bad Aura, Global.EffectColors[9], Global.HeroLocations[4], 1, Visible To);
+				Else If(Global.LoadingElementIndex == 5);
+					Create Effect(All Players(All Teams), Bad Aura, Global.EffectColors[10], Global.HeroLocations[5], 1, Visible To);
+				End;
+			End;
+			Wait(0.030, Ignore Condition);
+			Global.LoadingElementIndex += 1;
+			Loop;
+		"Load Unlocks"
+		Else If(Global.LoadingObjectIndex == 5);
+			If(Global.UnlockLocations[Global.LoadingElementIndex] != Vector(0, 0, 0)
+				&& Global.UnlockLocations[Global.LoadingElementIndex] != Null);
+				Create In-World Text(All Players(All Teams), Hero Icon String(Global.HeroRoster[Global.LoadingElementIndex + 1]),
+					Global.UnlockLocations[Global.LoadingElementIndex], 2, Clip Against Surfaces, Visible To, Color(White), Default Visibility);
+				Wait(0.030, Ignore Condition);
+				If(Global.LoadingElementIndex == 0);
+					Create Effect(All Players(All Teams), Sparkles, Global.EffectColors[6], Global.UnlockLocations[0], 1, Visible To);
+				Else If(Global.LoadingElementIndex == 1);
+					Create Effect(All Players(All Teams), Sparkles, Global.EffectColors[7], Global.UnlockLocations[1], 1, Visible To);
+				Else If(Global.LoadingElementIndex == 2);
+					Create Effect(All Players(All Teams), Sparkles, Global.EffectColors[8], Global.UnlockLocations[2], 1, Visible To);
+				Else If(Global.LoadingElementIndex == 3);
+					Create Effect(All Players(All Teams), Sparkles, Global.EffectColors[9], Global.UnlockLocations[3], 1, Visible To);
+				End;
+			End;
+			Wait(0.030, Ignore Condition);
+			Global.LoadingElementIndex += 1;
+			Loop;
+		"Load Speedrun"
+		Else If(Global.LoadingObjectIndex == 6);
+			If(Global.SpeedrunLocation != Vector(0, 0, 0) && Global.SpeedrunLocation != Null);
+				Create In-World Text(Filtered Array(All Players(All Teams), Current Array Element.SpeedRunMode == False), Custom String(
+					"Speedrun Mode"), Global.SpeedrunLocation, 1, Clip Against Surfaces, Visible To, Color(Red), Default Visibility);
+				Wait(0.030, Ignore Condition);
+				Create Effect(Filtered Array(All Players(All Teams), Current Array Element.SpeedRunMode == False), Good Aura, Color(Red),
+					Global.SpeedrunLocation, 1, Visible To);
+				Wait(0.030, Ignore Condition);
+				Create In-World Text(Filtered Array(All Players(All Teams), Current Array Element.SpeedRunMode == True), Custom String(
+					"Speedrun Mode"), Global.SpeedrunLocation, 1, Clip Against Surfaces, Visible To, Color(Green), Default Visibility);
+				Wait(0.030, Ignore Condition);
+				Create Effect(Filtered Array(All Players(All Teams), Current Array Element.SpeedRunMode == True), Good Aura, Color(Green),
+					Global.SpeedrunLocation, 1, Visible To);
+			End;
+			Wait(0.030, Ignore Condition);
+			Global.LoadingElementIndex += 1;
+			Loop;
+		"Load Bouncepads"
+		Else If(Global.LoadingObjectIndex == 7);
+			If(Global.BouncepadLocations[Global.LoadingElementIndex] != Vector(0, 0, 0)
+				&& Global.BouncepadLocations[Global.LoadingElementIndex] != Null);
+				Create Effect(All Players(All Teams), Orb, Global.EffectColors[4], Global.BouncepadLocations[Global.LoadingElementIndex], 1,
+					Visible To);
+			End;
+			Wait(0.030, Ignore Condition);
+			Global.LoadingElementIndex += 1;
+			Loop;
+		"Load Speedrun"
+		Else If(Global.LoadingObjectIndex == 8);
+			If(Global.LoadingElementIndex == 0);
+				Global.LavaFloorLocations = Filtered Array(Global.LavaFloorLocations,
+					Current Array Element != Null && Current Array Element != Vector(0, 0, 0));
+				Global.LavaFloorRadius = Filtered Array(Global.LavaFloorRadius, Current Array Element != Null && Current Array Element != 0);
+			End;
+			Create Effect(All Players(All Teams), Sphere, Global.EffectColors[11], Global.LavaFloorLocations[Global.LoadingElementIndex],
+				Global.LavaFloorRadius[Global.LoadingElementIndex], Visible To);
+			Wait(0.030, Ignore Condition);
+			Global.LoadingElementIndex += 1;
+			Loop;
+		End;
+	}
+}
+
+規則("In World Text Effects")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		"\"Heroes\" Text"
+		If(Global.InWorldText[0] != Vector(0, 0, 0));
+			Create In-World Text(All Players(All Teams), String("英雄"), Global.InWorldText[0], 3, Clip Against Surfaces, Visible To and String,
+				Color(White), Default Visibility);
+		End;
+	}
+}
+
+規則("---------- FUNCTIONALITY ----------")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+}
+
+規則("Lava Death")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Has Spawned(Event Player) == True;
+		Is Alive(Event Player) == True;
+		Hero Of(Event Player) != Global.HeroRoster[5];
+		Event Player.CanDie == True;
+		Hero Of(Event Player) != Global.EasterEggHeroes[5];
+	}
+
+	動作
+	{
+		If(Is True For Any(Global.LavaLocations, Distance Between(Position Of(Event Player) + Vector(0, 0.300, 0), Current Array Element)
+			< Global.LavaRadius[Index Of Array Value(Global.LavaLocations, Current Array Element)]) == True);
+			If(Hero Of(Event Player) == Hero(莫伊拉) && Is Using Ability 1(Event Player) == True);
+				Wait(0.050 + Count Of(Global.LavaLocations) * 0.001, Ignore Condition);
+				Loop If Condition Is True;
+			Else If(Hero Of(Event Player) == Hero(死神) && Is Using Ability 1(Event Player) == True);
+				Wait(0.050 + Count Of(Global.LavaLocations) * 0.001, Ignore Condition);
+				Loop If Condition Is True;
+			Else If(Hero Of(Event Player) == Hero(小美) && Is Using Ability 1(Event Player) == True);
+				Wait(0.050 + Count Of(Global.LavaLocations) * 0.001, Ignore Condition);
+				Loop If Condition Is True;
+			End;
+			Kill(Event Player, Null);
+		End;
+		Wait(0.050 + Count Of(Global.LavaLocations) * 0.001, Ignore Condition);
+		Loop If Condition Is True;
+	}
+}
+
+規則("Respawning")
+{
+	事件
+	{
+		Player Died;
+		All;
+		All;
+	}
+
+	動作
+	{
+		If(Event Player.Victory == False);
+			Event Player.Deaths += 1;
+		End;
+		Wait(0.400, Ignore Condition);
+		Teleport(Event Player, Event Player.Respawn);
+		Wait(0.400, Ignore Condition);
+		Resurrect(Event Player);
+		Clear Status(Event Player, Phased Out);
+		If(Global.PlayerBehaviors[0] == 2);
+			Set Status(Event Player, Null, Phased Out, 3599);
+		End;
+		If(Event Player.Respawn == Global.ZoneLocations[0]);
+			If(Count Of(Filtered Array(Event Player.HeroesUnlocked, Current Array Element == True)) == 0);
+				Event Player.Timer = 0;
+				Event Player.Deaths = 0;
+			End;
+		End;
+		Set Ability Cooldown(Event Player, Button(Ability 1), 0);
+		Set Ability Cooldown(Event Player, Button(Ability 2), 0);
+		Set Ability Cooldown(Event Player, Button(Secondary Fire), 0);
+	}
+}
+
+規則("Checkpoint")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Has Spawned(Event Player) == True;
+		Hero Of(Event Player) != Global.HeroRoster[5];
+		Event Player.CanDie == True;
+		Is True For Any(Filtered Array(Global.CheckpointLocations, Current Array Element != Vector(0, 0, 0)), Distance Between(Position Of(
+			Event Player), Current Array Element) < 1) == True;
+	}
+
+	動作
+	{
+		For Player Variable(Event Player, LoopCounter, 0, Global.MaxObjectIndex[1] + 1, 1);
+			If(Global.CheckpointLocations[Event Player.LoopCounter] != Vector(0, 0, 0)
+				&& Global.CheckpointLocations[Event Player.LoopCounter] != 0);
+				If(Event Player.Respawn != Global.CheckpointLocations[Event Player.LoopCounter]);
+					If(Distance Between(Position Of(Event Player), Global.CheckpointLocations[Event Player.LoopCounter]) <= 1);
+						Event Player.Respawn = Global.CheckpointLocations[Event Player.LoopCounter];
+						Event Player.AlternativeRespawn = Global.CheckpointLocations[Event Player.LoopCounter];
+						Play Effect(All Players(All Teams), Buff Explosion Sound, Color(White), Position Of(Event Player), 100);
+						Small Message(Event Player, Custom String("Checkpoint!"));
+						Break;
+					End;
+				End;
+			End;
+		End;
+	}
+}
+
+規則("Zones")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Has Spawned(Event Player) == True;
+		Hero Of(Event Player) != Global.HeroRoster[5];
+		Event Player.CanDie == True;
+	}
+
+	動作
+	{
+		If(Global.ZoneLocations[1] != Vector(0, 0, 0));
+			If(Event Player.Respawn != Global.ZoneLocations[1] && Distance Between(Position Of(Event Player), Global.ZoneLocations[1]) <= 2);
+				Event Player.Respawn = Global.ZoneLocations[1];
+				Small Message(Event Player, Custom String("{0}!", String("檢查點")));
+				Play Effect(All Players(All Teams), Buff Explosion Sound, Color(White), Position Of(Event Player), 100);
+				If(Event Player.ZonesReached[0] == False);
+					Event Player.ZonesReached[0] = True;
+					Big Message(All Players(All Teams), Custom String(" \r\n{0} {1} {2}", Event Player, String("抵達"), Global.ZoneText[1]));
+					Call Subroutine(UpdateCount);
+				End;
+			End;
+		End;
+		If(Global.ZoneLocations[2] != Vector(0, 0, 0));
+			If(Event Player.Respawn != Global.ZoneLocations[2] && Distance Between(Position Of(Event Player), Global.ZoneLocations[2]) <= 2);
+				Event Player.Respawn = Global.ZoneLocations[2];
+				Event Player.AlternativeRespawn = Global.ZoneLocations[2];
+				Small Message(Event Player, Custom String("{0}!", String("檢查點")));
+				Play Effect(All Players(All Teams), Buff Explosion Sound, Color(White), Position Of(Event Player), 100);
+				If(Event Player.ZonesReached[1] == False);
+					Event Player.ZonesReached[1] = True;
+					Big Message(All Players(All Teams), Custom String(" \r\n{0} {1} {2}", Event Player, String("抵達"), Global.ZoneText[2]));
+					Call Subroutine(UpdateCount);
+				End;
+			End;
+		End;
+		If(Global.ZoneLocations[3] != Vector(0, 0, 0));
+			If(Event Player.Respawn != Global.ZoneLocations[3] && Distance Between(Position Of(Event Player), Global.ZoneLocations[3]) <= 2);
+				Event Player.Respawn = Global.ZoneLocations[3];
+				Event Player.AlternativeRespawn = Global.ZoneLocations[3];
+				Small Message(Event Player, Custom String("{0}!", String("檢查點")));
+				Play Effect(All Players(All Teams), Buff Explosion Sound, Color(White), Position Of(Event Player), 100);
+				If(Event Player.ZonesReached[2] == False);
+					Event Player.ZonesReached[2] = True;
+					Big Message(All Players(All Teams), Custom String(" \r\n{0} {1} {2}", Event Player, String("抵達"), Global.ZoneText[3]));
+					Call Subroutine(UpdateCount);
+				End;
+			End;
+		End;
+		If(Global.ZoneLocations[4] != Vector(0, 0, 0));
+			If(Event Player.Respawn != Global.ZoneLocations[4] && Distance Between(Position Of(Event Player), Global.ZoneLocations[4]) <= 2);
+				Event Player.Respawn = Global.ZoneLocations[4];
+				Event Player.AlternativeRespawn = Global.ZoneLocations[4];
+				Small Message(Event Player, Custom String("{0}!", String("檢查點")));
+				Play Effect(All Players(All Teams), Buff Explosion Sound, Color(White), Position Of(Event Player), 100);
+				If(Event Player.ZonesReached[3] == False);
+					Event Player.ZonesReached[3] = True;
+					Big Message(All Players(All Teams), Custom String(" \r\n{0} {1} {2}", Event Player, String("抵達"), Global.ZoneText[4]));
+					Call Subroutine(UpdateCount);
+				End;
+			End;
+		End;
+		Wait(0.100, Ignore Condition);
+		Loop If Condition Is True;
+	}
+}
+
+規則("Hero Swap")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Is Button Held(Event Player, Button(Interact)) == True;
+		Is True For Any(Filtered Array(Global.HeroLocations, Current Array Element != Vector(0, 0, 0)), Distance Between(Eye Position(
+			Event Player), Current Array Element) < 1.500) == True;
+	}
+
+	動作
+	{
+		For Player Variable(Event Player, LoopCounter, 0, Global.MaxObjectIndex[4] + 1, 1);
+			If(Global.HeroLocations[Event Player.LoopCounter] != Vector(0, 0, 0) && Global.HeroLocations[Event Player.LoopCounter] != 0);
+				If(Event Player.HeroesUnlocked[Event Player.LoopCounter - 1] == True || Event Player.LoopCounter == 0);
+					If(Distance Between(Eye Position(Event Player), Global.HeroLocations[Event Player.LoopCounter]) <= 1.500);
+						Start Forcing Player To Be Hero(Event Player, Global.HeroRoster[Event Player.LoopCounter]);
+						If(Event Player.Respawn == Global.ZoneLocations[1]);
+							Event Player.AlternativeRespawn = Null;
+						End;
+						Break;
+					End;
+				End;
+			End;
+		End;
+	}
+}
+
+規則("Hero Swap Tip")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Has Spawned(Event Player) == True;
+		Is True For Any(Filtered Array(Global.HeroLocations, Current Array Element != Vector(0, 0, 0)), Distance Between(Eye Position(
+			Event Player), Current Array Element) < 1.500) == True;
+	}
+
+	動作
+	{
+		Wait(2, Abort When False);
+		Small Message(Event Player, Custom String("Press [Interact]"));
+	}
+}
+
+規則("Hero Unlock")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Has Spawned(Event Player) == True;
+		Event Player.HeroCount < Global.MaxHeroes;
+		Hero Of(Event Player) != Global.HeroRoster[5];
+		Is True For Any(Filtered Array(Global.UnlockLocations, Current Array Element != Vector(0, 0, 0)), Distance Between(Eye Position(
+			Event Player), Current Array Element) < 1.500) == True;
+	}
+
+	動作
+	{
+		For Player Variable(Event Player, LoopCounter, 0, Global.MaxObjectIndex[5] + 1, 1);
+			If(Global.UnlockLocations[Event Player.LoopCounter] != Vector(0, 0, 0) && Global.UnlockLocations[Event Player.LoopCounter] != 0);
+				If(Event Player.HeroesUnlocked[Event Player.LoopCounter] == False);
+					If(Distance Between(Eye Position(Event Player), Global.UnlockLocations[Event Player.LoopCounter]) <= 1.500);
+						Big Message(All Players(All Teams), Custom String(" \r\n{0} {1} {2}", Event Player, String("得到解鎖"), Hero Icon String(
+							Global.HeroRoster[Event Player.LoopCounter + 1])));
+						Event Player.HeroesUnlocked[Event Player.LoopCounter] = True;
+						Play Effect(All Players(All Teams), Buff Explosion Sound, Color(White), Position Of(Event Player), 100);
+						Call Subroutine(UpdateCount);
+						Break;
+					End;
+				End;
+			End;
+		End;
+	}
+}
+
+規則("Portal Usage")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Is Button Held(Event Player, Button(Interact)) == True;
+		Is True For Any(Filtered Array(Global.PortalLocations, Current Array Element != Vector(0, 0, 0)), Distance Between(Eye Position(
+			Event Player), Current Array Element) < 1.500) == True;
+	}
+
+	動作
+	{
+		For Player Variable(Event Player, LoopCounter, 0, Global.MaxObjectIndex[3] + 1, 1);
+			If(Event Player.PortalUnlocked[Event Player.LoopCounter] == True);
+				If(Global.PortalLocations[Event Player.LoopCounter] != Vector(0, 0, 0) && Global.PortalLocations[Event Player.LoopCounter] != 0);
+					If(Global.PortalDestinations[Event Player.LoopCounter] != Vector(0, 0, 0)
+						&& Global.PortalDestinations[Event Player.LoopCounter] != 0);
+						If(Distance Between(Eye Position(Event Player), Global.PortalLocations[Event Player.LoopCounter]) <= 1.500);
+							Teleport(Event Player, Global.PortalDestinations[Event Player.LoopCounter]);
+							Break;
+						End;
+					End;
+				End;
+			End;
+		End;
+	}
+}
+
+規則("Unlocking a Portal (reach the destination)")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Hero Of(Event Player) != Global.HeroRoster[5];
+		Is True For Any(Filtered Array(Global.PortalDestinations, Current Array Element != Vector(0, 0, 0)), Distance Between(
+			Current Array Element, Position Of(Event Player)) < 2) == True;
+	}
+
+	動作
+	{
+		For Player Variable(Event Player, LoopCounter, 0, Global.MaxObjectIndex[3] + 1, 1);
+			If(Global.PortalDestinations[Event Player.LoopCounter] != Vector(0, 0, 0)
+				&& Global.PortalDestinations[Event Player.LoopCounter] != 0);
+				If(Event Player.PortalUnlocked[Event Player.LoopCounter] == False);
+					If(Distance Between(Position Of(Event Player), Global.PortalDestinations[Event Player.LoopCounter]) <= 2);
+						Event Player.PortalUnlocked[Event Player.LoopCounter] = True;
+					End;
+				End;
+			End;
+		End;
+	}
+}
+
+規則("Teleport Back to a Spawn Point")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Is Button Held(Event Player, Button(Ultimate)) == True;
+		Hero Of(Event Player) != Global.HeroRoster[5];
+	}
+
+	動作
+	{
+		If(Distance Between(Position Of(Event Player), Event Player.Respawn) > 1);
+			Teleport(Event Player, Event Player.Respawn);
+			Wait(0.050, Ignore Condition);
+			Play Effect(All Players(All Teams), Buff Explosion Sound, Color(White), Position Of(Event Player), 100);
+		Else;
+			If(Event Player.AlternativeRespawn != Null);
+				If(Distance Between(Position Of(Event Player), Event Player.AlternativeRespawn) > 1);
+					Teleport(Event Player, Event Player.AlternativeRespawn);
+					Event Player.Respawn = Event Player.AlternativeRespawn;
+				Else;
+					If(Event Player.ZonesReached[0] == True);
+						Teleport(Event Player, Global.ZoneLocations[1]);
+					End;
+				End;
+			End;
+		End;
+	}
+}
+
+規則("Bouncepad Interaction")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Is True For Any(Filtered Array(Global.BouncepadLocations, Current Array Element != Vector(0, 0, 0)), Distance Between(Position Of(
+			Event Player), Current Array Element) < 1.500) == True;
+	}
+
+	動作
+	{
+		For Player Variable(Event Player, LoopCounter, 0, Global.MaxObjectIndex[7] + 1, 1);
+			If(Global.BouncepadLocations[Event Player.LoopCounter] != Vector(0, 0, 0)
+				&& Global.BouncepadLocations[Event Player.LoopCounter] != 0);
+				If(Distance Between(Position Of(Event Player), Global.BouncepadLocations[Event Player.LoopCounter]) <= 1.500);
+					Apply Impulse(Event Player, Vector(0, 1, 0), Global.BouncepadStrength[Event Player.LoopCounter], To World, Cancel Contrary Motion);
+					Play Effect(All Players(All Teams), Debuff Impact Sound, Color(White), Event Player, 75);
+					Break;
+				End;
+			End;
+		End;
+	}
+}
+
+規則("Victory")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Event Player.Victory == False;
+		Event Player.ZoneCount == Global.MaxZones;
+		Event Player.HeroCount == Global.MaxHeroes;
+	}
+
+	動作
+	{
+		Event Player.Victory = True;
+		If(Event Player.SpeedRunMode == True);
+			Destroy HUD Text(Event Player.MyHUD[1]);
+			Create HUD Text(Event Player, Custom String("Finished"), Custom String("Deaths: {0}", Event Player.Deaths), Custom String(
+				"Time: {0}:{1}", Round To Integer(Event Player.Timer / 60, Down), Round To Integer(Event Player.Timer % 60, Down)), Top, 1,
+				Color(Purple), Color(Green), Color(Green), Visible To and String, Default Visibility);
+			Event Player.MyHUD[0] = Last Text ID;
+			Big Message(All Players(All Teams), Custom String(" \r\n{0} FINISHED IN {1}:{2}!", Event Player, Round To Integer(
+				Event Player.Timer / 60, Down), Round To Integer(Event Player.Timer % 60, Down)));
+		Else;
+			Big Message(All Players(All Teams), Custom String(" \r\n{0} {1}!", Event Player, String("已完成")));
+		End;
+	}
+}
+
+規則("Secret Hero")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Has Spawned(Event Player) == True;
+		Global.HeroLocations[5] != Vector(0, 0, 0);
+		Distance Between(Eye Position(Event Player), Global.HeroLocations[5]) <= 1.500;
+		Hero Of(Event Player) != Global.HeroRoster[5];
+	}
+
+	動作
+	{
+		Start Forcing Player To Be Hero(Event Player, Global.HeroRoster[5]);
+		If(Event Player.FoundSecretHero == False);
+			Big Message(All Players(All Teams), Custom String(" \r\n{0} {1} {2}", Event Player, String("被發現"), Hero Icon String(
+				Global.HeroRoster[5])));
+		End;
+		Wait(0.250, Ignore Condition);
+		Teleport(Event Player, Global.ZoneLocations[1]);
+		Event Player.FoundSecretHero = True;
+	}
+}
+
+規則("Secret Hero Jump")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Is Button Held(Event Player, Button(Jump)) == True;
+		Hero Of(Event Player) == Global.HeroRoster[5];
+	}
+
+	動作
+	{
+		Apply Impulse(Event Player, Vector(0, 1, 0), 30, To World, Cancel Contrary Motion);
+		Play Effect(All Players(All Teams), Debuff Impact Sound, Color(White), Event Player, 75);
+	}
+}
+
+規則("Secret Hero Speed")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Hero Of(Event Player) == Global.HeroRoster[5];
+	}
+
+	動作
+	{
+		Set Move Speed(Event Player, 400);
+		Wait(0.250, Ignore Condition);
+		Loop If Condition Is True;
+		Set Move Speed(Event Player, 100);
+	}
+}
+
+規則("Self-Restart")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Is Button Held(Event Player, Button(Ultimate)) == True;
+	}
+
+	動作
+	{
+		Wait(0.750, Abort When False);
+		Small Message(Event Player, Custom String("Resetting Progress... 3"));
+		Wait(0.750, Abort When False);
+		Small Message(Event Player, Custom String("Resetting Progress... 2"));
+		Wait(0.750, Abort When False);
+		Small Message(Event Player, Custom String("Resetting Progress... 1"));
+		Wait(0.750, Abort When False);
+		Small Message(Event Player, Custom String("Progress Reset!"));
+		Wait(0.050, Ignore Condition);
+		Call Subroutine(ResetProgress);
+	}
+}
+
+規則("Speed Run Toggle")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Is Button Held(Event Player, Button(Interact)) == True;
+		Global.SpeedrunLocation != Vector(0, 0, 0);
+		Distance Between(Eye Position(Event Player), Global.SpeedrunLocation) < 1.500;
+	}
+
+	動作
+	{
+		If(Event Player.SpeedRunMode == False);
+			Wait(0.250, Ignore Condition);
+			If(!Is Button Held(Event Player, Button(Interact)));
+				Small Message(Event Player, Custom String(
+					"WARNING: Enabling speed run will reset all progress\r\n        Hold [Interact] to enable speed run mode"));
+			End;
+			Wait(1, Abort When False);
+			Event Player.SpeedRunMode = True;
+			Event Player.Victory = False;
+			Call Subroutine(ResetProgress);
+			Create HUD Text(Event Player, Custom String("Speed Run"), Custom String("Deaths: {0}", Event Player.Deaths), Custom String(
+				"Time: {0}:{1}", Round To Integer(Event Player.Timer / 60, Down), Round To Integer(Event Player.Timer % 60, Down)), Top, 1,
+				Color(Orange), Color(Red), Color(Orange), Visible To and String, Default Visibility);
+			Event Player.MyHUD[1] = Last Text ID;
+			Small Message(Event Player, Custom String("Speed Run Mode Activated"));
+		Else;
+			Destroy HUD Text(Event Player.MyHUD[0]);
+			Destroy HUD Text(Event Player.MyHUD[1]);
+			Event Player.SpeedRunMode = False;
+			Small Message(Event Player, Custom String("Speed Run Mode Disabled"));
+		End;
+	}
+}
+
+規則("Speed Run Timer Increase")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Event Player.SpeedRunMode == True;
+		Event Player.Victory == False;
+		Distance Between(Position Of(Event Player), Global.ZoneLocations[0]) > 1;
+	}
+
+	動作
+	{
+		Wait(0.992, Abort When False);
+		Event Player.Timer += 1;
+		Loop;
+	}
+}
+
+規則("Tutorial Mode Toggle")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Event Player.TutorialMode == False;
+		Is Button Held(Event Player, Button(Reload)) == True;
+	}
+
+	動作
+	{
+		Wait(0.250, Abort When False);
+		Small Message(Event Player, Custom String("Starting Tutorial Mode... 3"));
+		Wait(0.750, Abort When False);
+		Small Message(Event Player, Custom String("Starting Tutorial Mode... 2"));
+		Wait(0.750, Abort When False);
+		Small Message(Event Player, Custom String("Starting Tutorial Mode... 1"));
+		Wait(0.750, Abort When False);
+		Small Message(Event Player, Custom String("Tutorial Mode Activated!"));
+		Event Player.TutorialMode = True;
+	}
+}
+
+規則("Tutorial Mode Set Checkpoint")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Event Player.TutorialMode == True;
+		Is Button Held(Event Player, Button(Reload)) == True;
+		Distance Between(Position Of(Event Player), Event Player.Respawn) > 2;
+		Vertical Speed Of(Event Player) == 0;
+		Horizontal Speed Of(Event Player) == 0;
+	}
+
+	動作
+	{
+		Wait(0.500, Abort When False);
+		Small Message(Event Player, Custom String("Checkpoint Set!"));
+		Event Player.Respawn = Position Of(Event Player);
+		Event Player.AlternativeRespawn = Position Of(Event Player);
+		Play Effect(All Players(All Teams), Buff Explosion Sound, Color(White), Position Of(Event Player), 100);
+	}
+}
+
+規則("")
+{
+	事件
+	{
+		Subroutine;
+		ResetProgress;
+	}
+
+	動作
+	{
+		Set Facing(Event Player, Global.SpawnFaceDirection, To World);
+		Start Forcing Player To Be Hero(Event Player, Global.HeroRoster[0]);
+		If(Event Player.SpeedRunMode == True && Event Player.Victory == True);
+			Create HUD Text(Event Player, Custom String("Speed Run"), Custom String("Deaths: {0}", Event Player.Deaths), Custom String(
+				"Time: {0}:{1}", Round To Integer(Event Player.Timer / 60, Down), Round To Integer(Event Player.Timer % 60, Down)), Top, 1,
+				Color(Orange), Color(Red), Color(Orange), Visible To and String, Default Visibility);
+			Event Player.MyHUD[1] = Last Text ID;
+		End;
+		Destroy HUD Text(Event Player.MyHUD[0]);
+		Event Player.PortalUnlocked = Global.PortalUnlockDefaults;
+		Event Player.Victory = False;
+		Event Player.ZonesReached[0] = False;
+		Event Player.ZonesReached[1] = False;
+		Event Player.ZonesReached[2] = False;
+		Event Player.ZonesReached[3] = False;
+		Event Player.HeroesUnlocked[0] = False;
+		Event Player.HeroesUnlocked[1] = False;
+		Event Player.HeroesUnlocked[2] = False;
+		Event Player.HeroesUnlocked[3] = False;
+		If(Global.ZoneLocations[0] != Vector(0, 0, 0));
+			Event Player.Respawn = Global.ZoneLocations[0];
+		End;
+		Event Player.Deaths = 0;
+		Event Player.Timer = 0;
+		Event Player.ZoneCount = 0;
+		Event Player.HeroCount = 0;
+		Event Player.AlternativeRespawn = Null;
+		Teleport(Event Player, Event Player.Respawn);
+		Wait(0.100, Ignore Condition);
+		Play Effect(All Players(All Teams), Ring Explosion Sound, Color(White), Position Of(Event Player), 100);
+		Event Player.TutorialMode = False;
+		Event Player.FoundSecretHero = False;
+		Event Player.EasterEggCount = 0;
+		Event Player.EasterEggsFound[0] = False;
+		Event Player.EasterEggsFound[1] = False;
+		Event Player.EasterEggsFound[2] = False;
+		Event Player.EasterEggsFound[3] = False;
+		Event Player.EasterEggsFound[4] = False;
+		Event Player.EasterEggsFound[5] = False;
+	}
+}
+
+規則("Update Count | Subroutine")
+{
+	事件
+	{
+		Subroutine;
+		UpdateCount;
+	}
+
+	動作
+	{
+		Event Player.ZoneCount = Count Of(Filtered Array(Event Player.ZonesReached, Current Array Element == True));
+		Event Player.HeroCount = Count Of(Filtered Array(Event Player.HeroesUnlocked, Current Array Element == True));
+		If(Event Player.HeroCount > 4);
+			Event Player.HeroCount = 4;
+		End;
+	}
+}
+
+規則("Match Time Initiation")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	條件
+	{
+		Is Game In Progress == True;
+		Is Assembling Heroes == False;
+	}
+
+	動作
+	{
+		Create HUD Text(All Players(All Teams), Null, Null, Custom String("Match Time - {0}:{1}", Round To Integer(Global.MatchTime / 60,
+			Down), Round To Integer(Global.MatchTime % 60, Down)), Top, -10, Color(White), Color(White), Color(White),
+			Visible To and String, Default Visibility);
+		Set Match Time(3599);
+		Wait(5, Ignore Condition);
+		Pause Match Time;
+	}
+}
+
+規則("Match Time Warning")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	條件
+	{
+		"10 Min Warning"
+		Global.MatchTime < 600;
+	}
+
+	動作
+	{
+		Big Message(All Players(All Teams), Custom String("10 Minute Warning"));
+		Wait(300, Ignore Condition);
+		Big Message(All Players(All Teams), Custom String("5 Minute Warning"));
+		Wait(240, Ignore Condition);
+		Big Message(All Players(All Teams), Custom String("1 Minute Warning"));
+		Wait(60, Ignore Condition);
+		Big Message(All Players(All Teams), Custom String("Match Time Is Up!"));
+		Enable Built-In Game Mode Completion;
+		Enable Game Mode In-World UI(All Players(All Teams));
+		Enable Game Mode HUD(All Players(All Teams));
+		Set Match Time(0);
+		Wait(0.250, Ignore Condition);
+		Unpause Match Time;
+	}
+}
+
+規則("Match Time")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Wait(0.998, Ignore Condition);
+		Global.MatchTime -= 1;
+		If(Global.MatchTime <= 0);
+			Abort;
+		End;
+		Loop;
+	}
+}
+
+規則("Skip Assembling Heroes")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	條件
+	{
+		Is Assembling Heroes == True;
+	}
+
+	動作
+	{
+		Set Match Time(1);
+	}
+}
+
+規則("Anti Crash Activation")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	條件
+	{
+		Global.AntiCrash == False;
+		Server Load > 200;
+	}
+
+	動作
+	{
+		Wait(1, Abort When False);
+		Small Message(All Players(All Teams), Custom String("Anti crash system activated"));
+		Set Slow Motion(10);
+		Global.AntiCrash = True;
+	}
+}
+
+規則("Anti Crash Deactivation")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	條件
+	{
+		Global.AntiCrash == True;
+		Server Load < 175;
+	}
+
+	動作
+	{
+		Set Slow Motion(100);
+		Global.AntiCrash = False;
+	}
+}
+
+規則("Prevent Damage")
+{
+	事件
+	{
+		Player Took Damage;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Is Alive(Event Player) == True;
+	}
+
+	動作
+	{
+		Set Player Health(Event Player, Max Health(Event Player));
+	}
+}
+
+規則("Lava Locations")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Global.LavaFloorLocations[0] = Vector(81.150, 9.580, 329.410);
+		Global.LavaFloorLocations[1] = Vector(66.300, 9.320, 306.270);
+		Global.LavaFloorLocations[2] = Vector(118.770, 3.590, 272.270);
+		Global.LavaFloorLocations[3] = Vector(143.370, 2.150, 247.400);
+		Global.LavaFloorLocations[4] = Vector(119.500, 9.460, -296.180);
+		Global.LavaFloorLocations[5] = Vector(214.220, 16.040, -204.690);
+	}
+}
+
+規則("Lava Radius")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Global.LavaFloorRadius[0] = 17.200;
+		Global.LavaFloorRadius[1] = 17.200;
+		Global.LavaFloorRadius[2] = 38.600;
+		Global.LavaFloorRadius[3] = 74.300;
+		Global.LavaFloorRadius[4] = 11.300;
+		Global.LavaFloorRadius[5] = 17.600;
+	}
+}
+
+規則("Lava Death")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Has Spawned(Event Player) == True;
+		Is Alive(Event Player) == True;
+		Event Player.CanDie == True;
+		Is On Ground(Event Player) == True;
+		Hero Of(Event Player) != Global.HeroRoster[5];
+		Hero Of(Event Player) != Global.EasterEggHeroes[5];
+	}
+
+	動作
+	{
+		If(Is True For Any(Global.LavaFloorLocations, Distance Between(Position Of(Event Player) + Vector(0, 0.300, 0),
+			Current Array Element) < Global.LavaFloorRadius[Index Of Array Value(Global.LavaFloorLocations, Current Array Element)])
+			== True);
+			Kill(Event Player, Null);
+		End;
+		停用 Wait(0.050 + Count Of(Global.LavaLocations) * 0.001, Ignore Condition);
+		Wait(0.500, Ignore Condition);
+		Loop If Condition Is True;
+	}
+}
+
+規則("----------EASTER EGG----------")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+}
+
+規則("Text")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	動作
+	{
+		Create HUD Text(Event Player.EasterEggCount >= True ? Event Player : Null, Null, Null, Custom String(
+			"Easter Eggs Found\r\n{0} / {1}", Event Player.EasterEggCount, Global.EasterEggMaxCount), Left, 3, Color(Aqua), Color(Aqua),
+			Color(Blue), Visible To and String, Default Visibility);
+	}
+}
+
+規則("Heroes Used")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Global.EasterEggHeroes[0] = Hero(源氏);
+		Global.EasterEggHeroes[1] = Hero(半藏);
+		Global.EasterEggHeroes[2] = Hero(毀滅拳王);
+		Global.EasterEggHeroes[3] = Hero(路西歐);
+		Global.EasterEggHeroes[4] = Hero(閃光);
+		Global.EasterEggHeroes[5] = Hero(小美);
+	}
+}
+
+規則("Locations")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Global.EasterEggLocations[0] = Global.ZoneLocations[0];
+		Global.EasterEggLocations[1] = Vector(174.898, 3.350, 216.176);//原是
+		Global.EasterEggLocations[2] = Vector(171.119, 33.596, -193.111);//辦葬
+		Global.EasterEggLocations[3] = Vector(167.726, 23.591, 271.720);//拳王
+		Global.EasterEggLocations[4] = Vector(-217.313, 16.215, -48.788);//CO
+		Global.EasterEggLocations[5] = Vector(191.508, 1.842, 165.905);//閃光
+	}
+}
+
+規則("Max Count")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Global.EasterEggMaxCount = 5;
+	}
+}
+
+規則("Effects")
+{
+	事件
+	{
+		Ongoing - Global;
+	}
+
+	動作
+	{
+		Create Effect(Filtered Array(Players On Hero(Global.EasterEggHeroes[0], All Teams),
+			!Current Array Element.EasterEggsFound[0] && Current Array Element.Victory), Sparkles, Color(Yellow),
+			Global.EasterEggLocations[0], 1, Visible To);
+		Create Effect(Filtered Array(Players On Hero(Global.EasterEggHeroes[1], All Teams),
+			!Current Array Element.EasterEggsFound[1] && Current Array Element.Victory), Sparkles, Color(Green),
+			Global.EasterEggLocations[1], 1, Visible To);
+		Create Effect(Filtered Array(Players On Hero(Global.EasterEggHeroes[2], All Teams),
+			!Current Array Element.EasterEggsFound[2] && Current Array Element.Victory), Sparkles, Color(Blue),
+			Global.EasterEggLocations[2], 1, Visible To);
+		Create Effect(Filtered Array(Players On Hero(Global.EasterEggHeroes[3], All Teams),
+			!Current Array Element.EasterEggsFound[3] && Current Array Element.Victory), Sparkles, Color(Purple),
+			Global.EasterEggLocations[3], 1, Visible To);
+		Create Effect(Filtered Array(Players On Hero(Global.EasterEggHeroes[4], All Teams),
+			!Current Array Element.EasterEggsFound[4] && Current Array Element.Victory), Sparkles, Color(Red),
+			Global.EasterEggLocations[4], 1, Visible To);
+		Create Effect(Filtered Array(All Players(All Teams), Current Array Element.EasterEggCount >= Global.EasterEggMaxCount), Bad Aura,
+			Color(Turquoise), Global.EasterEggLocations[5], 1, Visible To);
+		Create In-World Text(Filtered Array(All Players(All Teams), Current Array Element.EasterEggCount >= Global.EasterEggMaxCount),
+			Hero Icon String(Global.EasterEggHeroes[5]), Global.EasterEggLocations[5] + Vector(0, -0.300, 0), 2, Clip Against Surfaces,
+			Visible To, Color(White), Default Visibility);
+	}
+}
+
+規則("Pickup")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Has Spawned(Event Player) == True;
+		Event Player.EasterEggCount < Global.EasterEggMaxCount;
+		Is True For Any(Global.EasterEggLocations, Distance Between(Eye Position(Event Player), Current Array Element) < 1.500) == True;
+		Event Player.Victory == True;
+	}
+
+	動作
+	{
+		For Player Variable(Event Player, LoopCounter, 0, Global.EasterEggMaxCount, 1);
+			If(Event Player.EasterEggsFound[Event Player.LoopCounter] == False);
+				If(Hero Of(Event Player) == Global.EasterEggHeroes[Event Player.LoopCounter]);
+					If(Distance Between(Eye Position(Event Player), Global.EasterEggLocations[Event Player.LoopCounter]) <= 1.500);
+						Event Player.EasterEggsFound[Event Player.LoopCounter] = True;
+						Event Player.EasterEggCount += 1;
+						Play Effect(All Players(All Teams), Buff Explosion Sound, Color(White), Position Of(Event Player), 100);
+						Small Message(Event Player, Custom String("You Found An Easter Egg!"));
+						Break;
+					End;
+				End;
+			End;
+		End;
+	}
+}
+
+規則("Hero Swap")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Is Button Held(Event Player, Button(Interact)) == True;
+		Distance Between(Eye Position(Event Player), Global.EasterEggLocations[5]) < 1.500;
+	}
+
+	動作
+	{
+		If(Event Player.EasterEggCount >= Global.EasterEggMaxCount);
+			Start Forcing Player To Be Hero(Event Player, Global.EasterEggHeroes[5]);
+			If(Event Player.Respawn == Global.ZoneLocations[1]);
+				Event Player.AlternativeRespawn = Null;
+			End;
+			If(Event Player.EasterEggsFound[5] == False);
+				Big Message(All Players(All Teams), Custom String(".\n{0} {1} {2}", Event Player, String("被發現"), Hero Icon String(
+					Global.EasterEggHeroes[5])));
+				Event Player.EasterEggsFound[5] = True;
+			End;
+		End;
+	}
+}
+
+規則("Easter Egg Jump")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Is Button Held(Event Player, Button(Jump)) == True;
+		Hero Of(Event Player) == Global.EasterEggHeroes[5];
+	}
+
+	動作
+	{
+		Apply Impulse(Event Player, Vector(0, 1, 0), 50, To World, Cancel Contrary Motion);
+		Play Effect(All Players(All Teams), Debuff Impact Sound, Color(White), Event Player, 75);
+	}
+}
+
+規則("Easter Egg Speed")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Hero Of(Event Player) == Global.EasterEggHeroes[5];
+	}
+
+	動作
+	{
+		Set Move Speed(Event Player, 500);
+		Wait(0.250, Ignore Condition);
+		Loop If Condition Is True;
+		Set Move Speed(Event Player, 100);
+	}
+}
+
+規則("Lava Floor")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		毀滅拳王;
+	}
+
+	條件
+	{
+		Distance Between(Event Player, Vector(-216.360, 21.430, -48.520)) <= 8;
+		停用 Is On Ground(Event Player) == True;
+		Hero Of(Event Player) != Hero(慈悲);
+		Hero Of(Event Player) != Hero(席格馬);
+		停用 Hero(閃光) == True;
+	}
+
+	動作
+	{
+		Kill(Event Player, Null);
+		停用 Teleport(Event Player, Vector(-32.307, 18.350, -124.648));
+		Small Message(Event Player, Custom String("XXXXXXXXX{0}XXXXXXXX", Hero Icon String(Hero(毀滅拳王))));
+	}
+}
+
+規則("Lava Floor")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Distance Between(Event Player, Vector(54.996, 8.350, 321.359)) <= 4;
+		Hero Of(Event Player) != Hero(小美);
+		Hero Of(Event Player) != Hero(源氏);
+	}
+
+	動作
+	{
+		Kill(Event Player, Null);
+		停用 Teleport(Event Player, Vector(-32.307, 18.350, -124.648));
+		Small Message(Event Player, Custom String("Only{0}", Hero Icon String(Hero(源氏))));
+	}
+}

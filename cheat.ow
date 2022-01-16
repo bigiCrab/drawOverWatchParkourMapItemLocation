@@ -1,0 +1,137 @@
+變數
+{
+	玩家:
+		13: CanDie
+}
+
+規則("啊我就跑不過")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Is Button Held(Event Player, Button(Primary Fire)) == True;
+		Is Button Held(Event Player, Button(Secondary Fire)) == True;
+		Is Button Held(Event Player, Button(Interact)) == True;
+	}
+
+	動作
+	{
+		If(Event Player.CanDie == True);
+			Event Player.CanDie = False;
+			Small Message(Event Player, Custom String("Lava proof!"));
+			Play Effect(Event Player, Buff Impact Sound, Null, Position Of(Event Player), 100);
+		Else;
+			Event Player.CanDie = True;
+			Small Message(Event Player, Custom String("Lava kill u!"));
+			Play Effect(Event Player, Debuff Impact Sound, Null, Position Of(Event Player), 100);
+		End;
+	}
+}
+
+規則("我還要會飛")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Event Player.CanDie == False;
+		Is Button Held(Event Player, Button(Melee)) == True;
+	}
+
+	動作
+	{
+		停用 Destroy HUD Text(Last Text ID);
+		"stop in air"
+		Start Forcing Player Position(Event Player, Position Of(Event Player), True);
+		Set Gravity(Event Player, 100);
+		Set Move Speed(Event Player, 0);
+		"all movement"
+		If(Filtered Array(Array(Is Button Held(Event Player, Button(Jump)), Is Button Held(Event Player, Button(Crouch)), Throttle Of(
+			Event Player)), Current Array Element == True));
+			停用 Create HUD Text(All Players(All Teams), Custom String("moving..."), Null, Null, Left, 0, Color(White), Color(White), Color(White),
+				Visible To and String, Default Visibility);
+			Set Gravity(Event Player, 0);
+			Stop Forcing Player Position(Event Player);
+			"fly up"
+			If(Is Button Held(Event Player, Button(Jump)));
+				Apply Impulse(Event Player, Vector(0, 1, 0), 10, To Player, Cancel Contrary Motion);
+			End;
+			"fly down"
+			If(Is Button Held(Event Player, Button(Crouch)));
+				Apply Impulse(Event Player, Vector(0, -1, 0), 10, To Player, Cancel Contrary Motion);
+			End;
+			"ws"
+			If(Z Component Of(Throttle Of(Event Player)) != 0);
+				Apply Impulse(Event Player, Local Vector Of(Facing Direction Of(Event Player), Event Player, Rotation) * Vector(0, Z Component Of(
+					Throttle Of(Event Player)), Z Component Of(Throttle Of(Event Player))), 10, To Player, Cancel Contrary Motion XYZ);
+			End;
+			"ad"
+			If(X Component Of(Throttle Of(Event Player)) != 0);
+				Apply Impulse(Event Player, Vector(Z Component Of(Local Vector Of(Facing Direction Of(Event Player), Event Player, Rotation))
+					* X Component Of(Throttle Of(Event Player)), 0, X Component Of(Local Vector Of(Facing Direction Of(Event Player), Event Player,
+					Rotation)) * X Component Of(Throttle Of(Event Player))), 10, To Player, Cancel Contrary Motion XYZ);
+			End;
+		Else;
+		End;
+		"exit"
+		Wait(0.016, Ignore Condition);
+		Loop If Condition Is True;
+		Stop Forcing Player Position(Event Player);
+		Set Gravity(Event Player, 100);
+		Set Move Speed(Event Player, 100);
+	}
+}
+
+規則("會穿牆")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	條件
+	{
+		Event Player.CanDie == False;
+		Is Button Held(Event Player, Button(Primary Fire)) == True;
+	}
+
+	動作
+	{
+		Disable Movement Collision With Environment(Event Player, False);
+		Wait(0.016, Ignore Condition);
+		Loop If Condition Is True;
+		Enable Movement Collision With Environment(Event Player);
+	}
+}
+
+規則("LOG")
+{
+	事件
+	{
+		Ongoing - Each Player;
+		All;
+		All;
+	}
+
+	動作
+	{
+		Create HUD Text(Event Player, Null, Null, Custom String("{0} / {1} / {2}", String("{0} - {1} - {2}", Facing Direction Of(
+			Event Player), Local Vector Of(Facing Direction Of(Event Player), Event Player, Rotation), Position Of(Event Player)), String(
+			"{0} - {1} - {2}", Throttle Of(Event Player), X Component Of(Throttle Of(Event Player)), Z Component Of(Throttle Of(
+			Event Player))), String("{0} - {1} - {2}")), Top, 11, Color(White), Color(White), Color(Blue), Visible To and String,
+			Default Visibility);
+	}
+}
