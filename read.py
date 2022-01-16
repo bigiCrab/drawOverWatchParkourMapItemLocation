@@ -32,15 +32,17 @@ def printLocations(fileLines, targetLocations: str):
     return targetStr
 
 
-def getAllLocs(filePath="map/1CFV4.ow"):
+def getAllLocs(filePath):
 
     lines = readMap(filePath)
 
+    # some map has diffrent way to set location, if encountered ERROR read the print location and try to fix the map file
     targetLocNames = ["ZoneLocations", "HeroLocations",
                       "UnlockLocations", "EasterEggLocations"]
     # targetLocNames = ["ZoneLocations", "HeroLocations", "UnlockLocations"]
     # targetLocNames = ["ZoneLocations", "HeroLocations", "UnlockLocations","PortalLocations"]
 
+    print('-----auto capture location-----')
     result = ''
     for targetLocName in targetLocNames:
         result += printLocations(lines, targetLocName)
